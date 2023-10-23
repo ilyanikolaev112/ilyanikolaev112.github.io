@@ -1,0 +1,27 @@
+2023-10-09 12:50:16.975 [info] Уровень ведения журнала: Info
+2023-10-09 12:50:16.976 [info] Проверка найденного Git в: "git"
+2023-10-09 12:50:16.976 [info] Используется Git "2.34.1" из "git"
+2023-10-09 12:50:16.976 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-09 12:50:16.976 [info] > git rev-parse --git-dir --git-common-dir [8ms]
+2023-10-09 12:50:16.976 [info] Open repository: /home/ubuntu/site
+2023-10-09 12:50:16.976 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-09 12:50:16.976 [info] > git config --get commit.template [10ms]
+2023-10-09 12:50:16.976 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-10-09 12:50:16.976 [info] > git rev-parse --show-toplevel [15ms]
+2023-10-09 12:50:16.976 [info] > git status -z -uall [4ms]
+2023-10-09 12:50:16.976 [info] > git config --get commit.template [2ms]
+2023-10-09 12:50:16.976 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-10-09 12:50:16.976 [info] > git status -z -uall [2ms]
+2023-10-09 12:50:17.171 [info] > git show --textconv :dog1.html [78ms]
+2023-10-09 12:50:17.184 [info] > git ls-files --stage -- /home/ubuntu/site/dog1.html [83ms]
+2023-10-09 12:50:17.279 [info] > git cat-file -s a98dded6f8a22313ee0a88879b18e70fd78d1158 [75ms]
+2023-10-09 12:50:17.401 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-09 12:50:19.314 [info] > git check-ignore -v -z --stdin [79ms]
+2023-10-09 12:50:19.861 [info] > git config --local branch.main.github-pr-owner-number [112ms]
+2023-10-09 12:50:19.872 [info] > git config --get commit.template [2ms]
+2023-10-09 12:50:19.891 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2023-10-09 12:50:19.901 [info] > git status -z -uall [2ms]
+2023-10-09 12:51:01.708 [info] > git fetch [1178ms]
+2023-10-09 12:51:01.718 [info] > git config --get commit.template [1ms]
+2023-10-09 12:51:01.726 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-10-09 12:51:01.738 [info] > git status -z -uall [1ms]

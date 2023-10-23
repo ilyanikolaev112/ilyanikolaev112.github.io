@@ -1,0 +1,8 @@
+[Client I] GitHub Codespaces version 1.15.4
+[Client I] isRunningInWeb: "true"
+[Client V] Initializing authentication
+[API I] Successfully signed in
+[Client:extension:deed I] initializing
+[Client:extension:deed I] creating LiveShare ConnectionHub
+[Client:extension:deed:resolver I] created with protocol "codespaces"
+[RemoteExplorer I] Updating codespace performance info

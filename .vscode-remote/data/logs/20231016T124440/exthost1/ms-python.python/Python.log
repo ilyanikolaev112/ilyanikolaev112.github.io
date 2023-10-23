@@ -1,0 +1,165 @@
+2023-10-16 12:45:47.664 [info] Эксперимент «pythonPromptNewFormatterExt» активен
+2023-10-16 12:45:47.664 [info] Эксперимент «pythonPromptNewToolsExt» активен
+2023-10-16 12:45:47.664 [info] Эксперимент «pythonSurveyNotificationcf» активен
+2023-10-16 12:45:47.664 [info] Эксперимент «pythonTestAdaptercf» активен
+2023-10-16 12:45:48.432 [info] Test server listening.
+2023-10-16 12:45:48.457 [info] > conda info --json
+2023-10-16 12:45:48.472 [info] Found: /bin/python3 --> /bin/python3.10
+2023-10-16 12:45:48.473 [info] Found: /bin/python3.10 --> /bin/python3.10
+2023-10-16 12:45:48.511 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2023-10-16 12:45:48.511 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2023-10-16 12:45:48.534 [info] > ./.venv/bin/python -I ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-16 12:45:48.627 [info] Found: /usr/local/bin/python --> /usr/local/bin/python3.11
+2023-10-16 12:45:48.628 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.11
+2023-10-16 12:45:48.628 [info] Found: /usr/local/bin/python3.11 --> /usr/local/bin/python3.11
+2023-10-16 12:45:48.726 [info] > /bin/python3 -I ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-16 12:45:48.745 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-16 12:45:48.745 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-16 12:45:48.745 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-16 12:45:48.745 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-16 12:45:48.745 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-16 12:45:48.745 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-16 12:45:48.745 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-16 12:45:49.874 [info] > /usr/bin/python3 -I ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-16 12:45:49.901 [info] > /usr/local/bin/python -I ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-16 12:45:49.959 [info] Путь к интерпретатору Python: ./.venv/bin/python
+2023-10-16 12:45:50.573 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-16 12:45:50.573 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-16 12:45:52.180 [info] Запуск языкового сервера Pylance.
+2023-10-16 12:45:53.998 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:45:55.246 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:45:58.786 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:46:01.096 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:46:12.653 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:46:14.543 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:46:18.528 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:46:23.364 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:46:25.139 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:46:26.803 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:46:29.884 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:46:31.597 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:46:34.146 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:46:38.099 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:46:40.203 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:46:46.869 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:46:51.433 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:46:53.878 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:46:55.065 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:47:06.118 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:47:08.649 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:47:16.126 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:47:19.927 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:47:27.621 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:47:30.232 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:47:32.626 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:47:36.050 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:47:40.581 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:47:44.591 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 12:49:47.534 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:49:49.988 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:49:52.950 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:49:55.460 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:49:57.529 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:49:58.997 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:50:00.809 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:50:08.746 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:50:13.074 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:50:14.991 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:50:17.722 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:50:20.529 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:50:21.868 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:50:23.393 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:50:24.974 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:50:26.727 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:50:28.618 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:50:34.110 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:50:36.427 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:50:43.807 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:50:45.338 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:50:47.703 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:50:53.972 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:50:57.287 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:50:59.338 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:51:02.593 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:51:05.725 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:51:08.468 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:51:11.557 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:51:14.193 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:51:17.404 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:51:19.233 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:51:21.060 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:51:24.903 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:51:33.972 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:51:35.305 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:51:42.839 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:51:51.283 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:51:53.704 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:51:59.214 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:52:02.552 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:52:08.321 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:52:10.193 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:52:12.064 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:52:14.943 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:52:17.929 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:52:22.393 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:52:24.532 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something2.py
+2023-10-16 12:52:43.662 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:52:46.016 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:52:50.318 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:52:52.407 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:52:54.992 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:52:59.830 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:53:02.046 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:53:04.720 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:53:06.716 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:53:11.417 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:53:20.142 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:53:22.311 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:53:24.216 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:53:26.740 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:53:28.655 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:53:35.597 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:53:39.970 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:53:41.444 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:53:43.565 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:53:46.349 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:53:50.504 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:53:53.202 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:53:54.558 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:53:56.126 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:53:58.576 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:54:01.979 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:54:05.974 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:54:09.566 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:54:16.010 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:54:22.094 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:54:26.315 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:54:28.522 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:54:30.104 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:54:33.246 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:54:37.135 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:54:44.215 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:54:47.588 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:54:49.582 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:54:50.863 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:54:51.961 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:54:55.282 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:54:57.368 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:54:59.269 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:55:00.438 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:55:05.845 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:55:08.794 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:55:13.598 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:55:17.914 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 12:55:21.951 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something3.py
+2023-10-16 13:05:05.281 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 13:05:08.031 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 13:05:10.571 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 13:05:15.205 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 13:05:16.613 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 13:05:18.011 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 13:05:20.508 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 13:05:24.360 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 13:05:25.758 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 13:05:27.967 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py
+2023-10-16 13:05:29.544 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/something/something.py

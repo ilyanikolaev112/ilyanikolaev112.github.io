@@ -1,0 +1,9 @@
+2023-10-01 16:48:45.620 [info] Уровень ведения журнала: Info
+2023-10-01 16:48:45.620 [info] Проверка найденного Git в: "git"
+2023-10-01 16:48:45.620 [info] Используется Git "2.34.1" из "git"
+2023-10-01 16:48:45.620 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-01 16:48:45.620 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-01 16:48:45.620 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-01 16:48:45.620 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-01 16:48:48.474 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-01 16:48:48.474 [info] fatal: not a git repository (or any of the parent directories): .git

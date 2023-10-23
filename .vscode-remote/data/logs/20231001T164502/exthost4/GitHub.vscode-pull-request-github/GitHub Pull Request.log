@@ -1,0 +1,19 @@
+2023-10-01 16:49:08.604 [warning] /home/ubuntu/.ssh/config: ENOENT: no such file or directory, open '/home/ubuntu/.ssh/config'
+2023-10-01 16:49:10.842 [info] Looking for git repository
+2023-10-01 16:49:10.842 [info] Found 0 repositories during activation
+2023-10-01 16:49:10.842 [info] Git repository found, initializing review manager and pr tree view.
+2023-10-01 16:49:10.843 [info] Registering git provider
+2023-10-01 16:50:07.107 [info] Repository file:///home/ubuntu/site has been opened
+2023-10-01 16:50:07.107 [info] Review> Validate state in progress
+2023-10-01 16:50:07.107 [info] Review> Validating state...
+2023-10-01 16:50:07.109 [warning] No remotes found. The following remotes are missing: origin, upstream
+2023-10-01 16:50:07.109 [info] No GitHub remotes found for folder /home/ubuntu/site
+2023-10-01 16:50:07.157 [info] Review> Queuing additional validate state
+2023-10-01 16:50:07.157 [info] Repo state for file:///home/ubuntu/site changed.
+2023-10-01 16:50:07.157 [info] Repo file:///home/ubuntu/site has already been setup.
+2023-10-01 16:50:07.559 [info] Review> Validating state...
+2023-10-01 16:50:07.559 [warning] No remotes found. The following remotes are missing: origin, upstream
+2023-10-01 16:50:07.559 [info] No GitHub remotes found for folder /home/ubuntu/site
+2023-10-01 16:50:07.591 [info] Review> No matching pull request metadata found locally for current branch main
+2023-10-01 16:50:07.591 [info] Review> no matching pull request metadata found for current branch main
+2023-10-01 16:50:07.591 [info] Review> No matching pull request metadata found on GitHub for current branch main

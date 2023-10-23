@@ -1,0 +1,5 @@
+[credential]
+	helper = 
+	helper = /opt/cs50/bin/gitcredential_github.sh
+[user]
+	email = nikolaevila10@gmail.com

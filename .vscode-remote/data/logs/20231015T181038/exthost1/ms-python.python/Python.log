@@ -1,0 +1,37 @@
+2023-10-15 18:10:51.816 [info] Эксперимент «pythonPromptNewFormatterExt» активен
+2023-10-15 18:10:51.816 [info] Эксперимент «pythonPromptNewToolsExt» активен
+2023-10-15 18:10:51.816 [info] Эксперимент «pythonTerminalEnvVarActivation» активен
+2023-10-15 18:10:51.816 [info] Эксперимент «pythonTestAdaptercf» активен
+2023-10-15 18:10:53.124 [info] Test server listening.
+2023-10-15 18:10:53.144 [info] > conda info --json
+2023-10-15 18:10:53.372 [info] Found: /bin/python3 --> /bin/python3.10
+2023-10-15 18:10:53.380 [info] Found: /bin/python3.10 --> /bin/python3.10
+2023-10-15 18:10:53.457 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2023-10-15 18:10:53.463 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2023-10-15 18:10:53.519 [info] > ./.venv/bin/python -I ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-15 18:10:53.543 [info] Found: /usr/local/bin/python --> /usr/local/bin/python3.11
+2023-10-15 18:10:53.543 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.11
+2023-10-15 18:10:53.544 [info] Found: /usr/local/bin/python3.11 --> /usr/local/bin/python3.11
+2023-10-15 18:10:53.672 [info] > /bin/python3 -I ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-15 18:10:56.784 [info] > /usr/bin/python3 -I ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-15 18:10:56.808 [info] > /usr/local/bin/python -I ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-15 18:10:59.056 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-15 18:10:59.056 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-15 18:10:59.056 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-15 18:10:59.056 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-15 18:10:59.056 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-15 18:10:59.056 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-15 18:10:59.056 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-15 18:10:59.220 [info] Путь к интерпретатору Python: ./.venv/bin/python
+2023-10-15 18:11:02.434 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-15 18:11:02.434 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-15 18:11:02.710 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/printEnvVariables.py
+2023-10-15 18:11:02.711 [info] shell: bash
+2023-10-15 18:11:02.954 [info] > /bin/python3 ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/printEnvVariables.py
+2023-10-15 18:11:02.954 [info] shell: bash
+2023-10-15 18:11:06.111 [info] Запуск языкового сервера Pylance.
+2023-10-15 18:12:47.565 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/deep/deep.py
+2023-10-15 18:23:46.561 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/deep/bank/bank.py
+2023-10-15 18:23:48.185 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/deep/bank/bank.py
+2023-10-15 18:24:46.620 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/deep/bank/bank.py
+2023-10-15 18:24:48.440 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/deep/bank/bank.py

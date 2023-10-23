@@ -1,0 +1,9 @@
+2023-10-01 20:28:48.989 [info] Extension host with pid 453 started
+2023-10-01 20:28:48.998 [error] Error: EEXIST: file already exists, open '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/4fcc469b/vscode.lock'
+2023-10-01 20:28:49.007 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/4fcc469b/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-10-01 20:28:49.008 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/4fcc469b/vscode.lock': The pid 66826 appears to be gone.
+2023-10-01 20:28:49.008 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/4fcc469b/vscode.lock': Deleting a stale lock.
+2023-10-01 20:28:49.041 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/4fcc469b/vscode.lock': Lock acquired.
+2023-10-01 21:35:04.327 [info] Extension host terminating: received terminate message from renderer
+2023-10-01 21:35:04.332 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/4fcc469b/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-10-01 21:35:04.334 [info] Extension host with pid 453 exiting with code 0

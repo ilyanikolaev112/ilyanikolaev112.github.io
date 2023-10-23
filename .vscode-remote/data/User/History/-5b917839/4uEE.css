@@ -1,0 +1,23 @@
+header {
+    text-align: left;
+    position: absolute;
+    font-size: 1.5 rem;
+}
+h1 {
+    position: relative;
+    color: white;
+    text-align: right;
+}
+body {
+    background-color:#241309ba
+}
+p{
+    position: relative;
+    text-align: right;
+    color: white;
+}
+main {
+    position: relative;
+    text-align: right;
+    color: white;
+}

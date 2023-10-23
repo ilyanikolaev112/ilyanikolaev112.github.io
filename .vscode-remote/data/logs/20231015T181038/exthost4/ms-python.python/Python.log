@@ -1,0 +1,12 @@
+2023-10-15 18:36:53.785 [info] Эксперимент «pythonPromptNewFormatterExt» активен
+2023-10-15 18:36:53.785 [info] Эксперимент «pythonPromptNewToolsExt» активен
+2023-10-15 18:36:53.785 [info] Эксперимент «pythonTerminalEnvVarActivation» активен
+2023-10-15 18:36:53.785 [info] Эксперимент «pythonTestAdaptercf» активен
+2023-10-15 18:36:54.181 [info] Test server listening.
+2023-10-15 18:36:54.181 [info] Путь к интерпретатору Python: ./.venv/bin/python
+2023-10-15 18:36:57.803 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/printEnvVariables.py
+2023-10-15 18:36:57.803 [info] shell: bash
+2023-10-15 18:36:58.028 [info] > /bin/python3 ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/printEnvVariables.py
+2023-10-15 18:36:58.029 [info] shell: bash
+2023-10-15 18:37:01.169 [info] Запуск языкового сервера Pylance.
+2023-10-15 18:39:32.004 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/extensions/extensions.py

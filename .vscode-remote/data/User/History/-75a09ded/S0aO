@@ -1,0 +1,7 @@
+header {
+    text-align: left;
+    position: absolute;
+
+body {
+    background-color:#241309ba
+}

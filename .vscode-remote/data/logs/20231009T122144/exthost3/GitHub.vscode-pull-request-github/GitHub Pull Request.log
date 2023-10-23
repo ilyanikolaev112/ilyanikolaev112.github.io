@@ -1,0 +1,15 @@
+2023-10-09 12:50:17.326 [warning] /home/ubuntu/.ssh/config: ENOENT: no such file or directory, open '/home/ubuntu/.ssh/config'
+2023-10-09 12:50:19.220 [info] Looking for git repository
+2023-10-09 12:50:19.220 [info] Found 0 repositories during activation
+2023-10-09 12:50:19.220 [info] Git repository found, initializing review manager and pr tree view.
+2023-10-09 12:50:19.224 [info] Registering git provider
+2023-10-09 12:50:19.224 [info] Review> Validate state in progress
+2023-10-09 12:50:19.224 [info] Review> Validating state...
+2023-10-09 12:50:19.343 [info] Found GitHub remote for folder /home/ubuntu/site
+2023-10-09 12:50:19.731 [info] Trying to use globalState for assignableUsers.
+2023-10-09 12:50:19.903 [info] Repo state for file:///home/ubuntu/site changed.
+2023-10-09 12:50:19.903 [info] Repo file:///home/ubuntu/site has already been setup.
+2023-10-09 12:50:19.904 [info] Review> No matching pull request metadata found locally for current branch main
+2023-10-09 12:50:19.905 [info] Review> no matching pull request metadata found for current branch main
+2023-10-09 12:50:19.905 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-10-09 12:50:20.051 [info] Using globalState assignableUsers for 1.

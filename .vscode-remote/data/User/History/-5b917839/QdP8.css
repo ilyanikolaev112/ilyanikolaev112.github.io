@@ -1,0 +1,33 @@
+header {
+    text-align: right;
+    position: adsolute;
+
+}
+h1 {
+    position: relative;
+    color: white;
+    text-align: top;
+    font-size: 3rem;
+}
+body {
+    background-color:#241309ba
+}
+p{
+    position: relative;
+    text-align: left;
+    color: white;
+    font-size: 1.1rem;
+}
+main {
+    position: relative;
+    text-align: left;
+    color:white;
+    font-size: 1.5rem;
+
+}
+li {
+    position: relative;
+    text-align: left;
+    color:white;
+    font-size: 1.5rem;
+}

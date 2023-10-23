@@ -1,0 +1,59 @@
+2023-10-15 19:15:39.691 [trace] Remote configuration data at /home/ubuntu/.vscode-remote
+2023-10-15 19:15:39.692 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/ubuntu/.vscode-remote/data/Machine/.connection-token-f1b07bd25dfad64b0167beb15359ae573aecd2cc","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/ubuntu/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/ubuntu/.vscode-remote/extensionsCache","list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/ubuntu/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions","extensions-dir":"/home/ubuntu/.vscode-remote/extensions","logsPath":"/home/ubuntu/.vscode-remote/data/logs/20231015T191539"}
+2023-10-15 19:15:39.692 [info] 
+
+
+
+
+2023-10-15 19:15:39.692 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/data/Machine (excludes: <none>, includes: <all>),/home/ubuntu/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>)
+2023-10-15 19:15:39.699 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/data/Machine'
+2023-10-15 19:15:39.700 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/data/Machine/settings.json'
+2023-10-15 19:15:39.729 [trace] ExtensionManagementService#cleanUp
+2023-10-15 19:15:39.731 [trace] ExtensionManagementService#removeTempDeleteFolders
+2023-10-15 19:15:39.737 [info] Extension host agent started.
+2023-10-15 19:15:39.816 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/extensions (excludes: <none>, includes: <all>)
+2023-10-15 19:15:39.825 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>)
+2023-10-15 19:15:39.828 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/ms-toolsai.jupyter-2023.10.1002871100
+2023-10-15 19:15:39.828 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/esbenp.prettier-vscode-10.1.0
+2023-10-15 19:15:39.829 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/github.github-vscode-theme-6.3.4
+2023-10-15 19:15:39.829 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/formulahendry.code-runner-0.12.1
+2023-10-15 19:15:39.830 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/extensions'
+2023-10-15 19:15:39.832 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions","external":"file:///home/ubuntu/.vscode-remote/extensions","path":"/home/ubuntu/.vscode-remote/extensions","scheme":"file"}
+2023-10-15 19:15:39.846 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/extensions/extensions.json'
+2023-10-15 19:15:40.076 [trace] [127.0.0.1][34bf74cb][ExtensionHostConnection] - startParams language: ru
+2023-10-15 19:15:40.076 [trace] [127.0.0.1][34bf74cb][ExtensionHostConnection] - startParams env: {}
+2023-10-15 19:15:40.077 [info] [127.0.0.1][34bf74cb][ExtensionHostConnection] New connection established.
+2023-10-15 19:15:40.096 [info] [127.0.0.1][6b79d995][ManagementConnection] New connection established.
+2023-10-15 19:15:40.496 [trace] Started scanning system extensions
+2023-10-15 19:15:40.496 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-15 19:15:40.497 [trace] ExtensionManagementService.refreshReportedCache
+2023-10-15 19:15:40.497 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-15 19:15:40.498 [trace] Started scanning system extensions
+2023-10-15 19:15:40.498 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-15 19:15:40.498 [trace] Started scanning system extensions
+2023-10-15 19:15:40.498 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-15 19:15:40.501 [trace] Scanning extensions using UI language: ru
+2023-10-15 19:15:40.504 [info] Log level changed to info
+2023-10-15 19:15:42.437 [info] [127.0.0.1][34bf74cb][ExtensionHostConnection] <493> Launched Extension Host Process.
+2023-10-15 19:15:42.991 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-es /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-es-1.83.2023100409
+2023-10-15 19:15:42.991 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-cs /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-cs-1.83.2023100409
+2023-10-15 19:15:42.991 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-fr /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-fr-1.83.2023100409
+2023-10-15 19:15:42.992 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-it /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-it-1.83.2023100409
+2023-10-15 19:15:42.992 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-ja /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.83.2023100409
+2023-10-15 19:15:42.992 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-ko /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ko-1.83.2023100409
+2023-10-15 19:15:42.992 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-pt-br /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pt-br-1.83.2023100409
+2023-10-15 19:15:42.992 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-ru /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.83.2023100409
+2023-10-15 19:15:42.992 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-zh-hans /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.83.2023100409
+2023-10-15 19:15:42.992 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-zh-hant /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.83.2023100409
+2023-10-15 19:15:42.992 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-de /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-de-1.83.2023100409
+2023-10-15 19:15:42.993 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-pl /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pl-1.83.2023100409
+2023-10-15 19:15:44.409 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-es-1.83.2023100409.4a7399ad.vsctmp'
+    at i.create (/vscode/bin/linux-x64/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/server/node/server.main.js:104:29561)
+    at n (/vscode/bin/linux-x64/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/server/node/server.main.js:104:29681)
+    at t.fb (/vscode/bin/linux-x64/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/server/node/server.main.js:109:34754)
+    at t.stat (/vscode/bin/linux-x64/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/server/node/server.main.js:109:27200)
+    at async y.stat (/vscode/bin/linux-x64/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/server/node/server.main.js:109:14577)
+    at async te.tb (/vscode/bin/linux-x64/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/server/node/server.main.js:168:9507)
+2023-10-15 19:15:44.600 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.10.10
+2023-10-15 19:20:39.739 [info] New EH opened, aborting shutdown
+2023-10-15 20:11:47.371 [info] [127.0.0.1][6b79d995][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

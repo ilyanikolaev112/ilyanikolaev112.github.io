@@ -1,0 +1,50 @@
+2023-10-09 12:36:15.427 [warning] /home/ubuntu/.ssh/config: ENOENT: no such file or directory, open '/home/ubuntu/.ssh/config'
+2023-10-09 12:36:17.400 [info] Looking for git repository
+2023-10-09 12:36:17.400 [info] Found 0 repositories during activation
+2023-10-09 12:36:17.400 [info] Git repository found, initializing review manager and pr tree view.
+2023-10-09 12:36:17.403 [info] Registering git provider
+2023-10-09 12:36:17.403 [info] Review> Validate state in progress
+2023-10-09 12:36:17.403 [info] Review> Validating state...
+2023-10-09 12:36:17.511 [info] Found GitHub remote for folder /home/ubuntu/site
+2023-10-09 12:36:17.853 [info] Trying to use globalState for assignableUsers.
+2023-10-09 12:36:18.088 [info] Repo state for file:///home/ubuntu/site changed.
+2023-10-09 12:36:18.088 [info] Repo file:///home/ubuntu/site has already been setup.
+2023-10-09 12:36:18.089 [info] Review> No matching pull request metadata found locally for current branch main
+2023-10-09 12:36:18.089 [info] Review> no matching pull request metadata found for current branch main
+2023-10-09 12:36:18.090 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-10-09 12:36:18.205 [info] No globalState for assignableUsers.
+2023-10-09 12:37:16.458 [info] Review> Validate state in progress
+2023-10-09 12:37:16.458 [info] Review> Validating state...
+2023-10-09 12:37:16.691 [info] Found GitHub remote for folder /home/ubuntu/site
+2023-10-09 12:37:16.692 [info] Using in-memory cached assignable users.
+2023-10-09 12:37:16.764 [info] Review> No matching pull request metadata found locally for current branch main
+2023-10-09 12:37:16.764 [info] Review> no matching pull request metadata found for current branch main
+2023-10-09 12:37:16.765 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-10-09 12:38:24.684 [info] Review> Validate state in progress
+2023-10-09 12:38:24.684 [info] Review> Validating state...
+2023-10-09 12:38:24.901 [info] Found GitHub remote for folder /home/ubuntu/site
+2023-10-09 12:38:24.902 [info] Using in-memory cached assignable users.
+2023-10-09 12:38:24.963 [info] Review> No matching pull request metadata found locally for current branch main
+2023-10-09 12:38:24.964 [info] Review> no matching pull request metadata found for current branch main
+2023-10-09 12:38:24.964 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-10-09 12:42:02.020 [info] Review> Validate state in progress
+2023-10-09 12:42:02.020 [info] Review> Validating state...
+2023-10-09 12:42:02.241 [info] Found GitHub remote for folder /home/ubuntu/site
+2023-10-09 12:42:02.242 [info] Using in-memory cached assignable users.
+2023-10-09 12:42:02.281 [info] Review> No matching pull request metadata found locally for current branch main
+2023-10-09 12:42:02.281 [info] Review> no matching pull request metadata found for current branch main
+2023-10-09 12:42:02.282 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-10-09 12:48:56.064 [info] Review> Validate state in progress
+2023-10-09 12:48:56.064 [info] Review> Validating state...
+2023-10-09 12:48:56.281 [info] Found GitHub remote for folder /home/ubuntu/site
+2023-10-09 12:48:56.282 [info] Using in-memory cached assignable users.
+2023-10-09 12:48:56.392 [info] Review> No matching pull request metadata found locally for current branch main
+2023-10-09 12:48:56.392 [info] Review> no matching pull request metadata found for current branch main
+2023-10-09 12:48:56.392 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-10-09 12:49:29.744 [info] Review> Validate state in progress
+2023-10-09 12:49:29.745 [info] Review> Validating state...
+2023-10-09 12:49:33.460 [info] Found GitHub remote for folder /home/ubuntu/site
+2023-10-09 12:49:33.461 [info] Using in-memory cached assignable users.
+2023-10-09 12:49:33.701 [info] Review> No matching pull request metadata found locally for current branch main
+2023-10-09 12:49:33.701 [info] Review> no matching pull request metadata found for current branch main
+2023-10-09 12:49:33.701 [info] Review> No matching pull request metadata found on GitHub for current branch main

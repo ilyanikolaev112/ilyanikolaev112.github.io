@@ -1,0 +1,46 @@
+2023-10-16 12:44:56.285 [info] Extension host with pid 477 started
+2023-10-16 12:44:56.305 [error] Error: EEXIST: file already exists, open '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/45b9b236/vscode.lock'
+2023-10-16 12:44:56.324 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/45b9b236/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-10-16 12:44:56.343 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/45b9b236/vscode.lock': The pid 493 appears to be gone.
+2023-10-16 12:44:56.343 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/45b9b236/vscode.lock': Deleting a stale lock.
+2023-10-16 12:44:56.404 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/45b9b236/vscode.lock': Lock acquired.
+2023-10-16 12:45:00.658 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2023-10-16 12:45:00.659 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2023-10-16 12:45:00.659 [info] ExtensionService#_doActivateExtension vsls-contrib.gitdoc, startup: false, activationEvent: '*'
+2023-10-16 12:45:00.659 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-10-16 12:45:00.660 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-10-16 12:45:00.947 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2023-10-16 12:45:00.947 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2023-10-16 12:45:00.947 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2023-10-16 12:45:00.949 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2023-10-16 12:45:00.949 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2023-10-16 12:45:02.880 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2023-10-16 12:45:02.880 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2023-10-16 12:45:07.042 [info] Eager extensions activated
+2023-10-16 12:45:07.042 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-16 12:45:07.043 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-16 12:45:07.043 [info] ExtensionService#_doActivateExtension CS50.cs50, startup: false, activationEvent: 'onStartupFinished'
+2023-10-16 12:45:07.043 [info] ExtensionService#_doActivateExtension CS50.ddb50, startup: false, activationEvent: 'onStartupFinished'
+2023-10-16 12:45:07.043 [info] ExtensionService#_doActivateExtension CS50.explain50, startup: false, activationEvent: 'onStartupFinished'
+2023-10-16 12:45:07.044 [info] ExtensionService#_doActivateExtension CS50.extension-uninstaller, startup: false, activationEvent: 'onStartupFinished'
+2023-10-16 12:45:07.044 [info] ExtensionService#_doActivateExtension CS50.phpliteadmin, startup: false, activationEvent: 'onStartupFinished'
+2023-10-16 12:45:07.044 [info] ExtensionService#_doActivateExtension CS50.style50, startup: false, activationEvent: 'onStartupFinished'
+2023-10-16 12:45:07.044 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-10-16 12:45:07.045 [info] ExtensionService#_doActivateExtension inferrinizzard.prettier-sql-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-10-16 12:45:12.923 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: GitHub.vscode-pull-request-github
+2023-10-16 12:45:46.853 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-10-16 12:45:46.853 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-16 12:45:47.427 [warning] Using default string since no string found in i18n bundle that has the key: You need to select a Python interpreter before you start debugging.
+
+Tip: click on "Select Interpreter" in the status bar.
+2023-10-16 12:45:47.427 [warning] Using default string since no string found in i18n bundle that has the key: The Python extension now includes Pylance to improve completions, code navigation, overall performance and much more! You can learn more about the update and learn how to change your language server [here](https://aka.ms/new-python-bundle).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2023-10-16 12:45:47.427 [warning] Using default string since no string found in i18n bundle that has the key: The Microsoft Python Language Server has reached end of life. Your language server has been set to the default for Python in VS Code, Pylance.
+
+If you'd like to change your language server, you can learn about how to do so [here](https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2021-release/#configuring-your-language-server).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2023-10-16 12:45:48.012 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-10-16 12:47:11.885 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-16 12:47:11.886 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'

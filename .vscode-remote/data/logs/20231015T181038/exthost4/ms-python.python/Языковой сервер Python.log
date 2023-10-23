@@ -1,0 +1,9 @@
+2023-10-15 18:37:01.022 [info] [Info  - 18:37:01] (12939) Pylance language server 2023.10.20 (pyright 71ed1178) starting
+2023-10-15 18:37:01.123 [info] [Info  - 18:37:01] (12939) Server root directory: /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.10.20/dist
+2023-10-15 18:37:01.131 [info] [Info  - 18:37:01] (12939) Starting service instance "143985177"
+2023-10-15 18:37:01.669 [info] [Info  - 18:37:01] (12939) Setting pythonPath for service "143985177": "/workspaces/143985177/.venv/bin/python"
+2023-10-15 18:37:01.670 [info] [Info  - 18:37:01] (12939) Setting environmentName for service "143985177": "3.11.4 (.venv venv)"
+2023-10-15 18:37:01.671 [info] [Warn  - 18:37:01] (12939) stubPath /workspaces/143985177/typings is not a valid directory.
+2023-10-15 18:37:01.684 [info] [Info  - 18:37:01] (12939) Assuming Python version 3.11
+2023-10-15 18:37:01.875 [info] [Info  - 18:37:01] (12939) Found 7 source files
+2023-10-15 18:38:54.970 [info] [Info  - 18:38:54] (12939) Found 8 source files

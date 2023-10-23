@@ -1,0 +1,19 @@
+2023-10-15 18:33:08.474 [info] Extension host with pid 10254 started
+2023-10-15 18:33:08.498 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/3e9e5808/vscode.lock': Lock acquired.
+2023-10-15 18:33:09.693 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2023-10-15 18:33:09.694 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2023-10-15 18:33:09.694 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-10-15 18:33:09.694 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-15 18:33:09.694 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-10-15 18:33:09.695 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-15 18:33:09.695 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-15 18:33:09.908 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2023-10-15 18:33:09.908 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2023-10-15 18:33:09.908 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2023-10-15 18:33:09.910 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2023-10-15 18:33:09.910 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2023-10-15 18:33:13.947 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2023-10-15 18:33:13.947 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2023-10-15 18:33:13.949 [info] Extension host terminating: received terminate message from renderer
+2023-10-15 18:33:13.950 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/3e9e5808/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-10-15 18:33:14.039 [info] Extension host with pid 10254 exiting with code 0

@@ -1,0 +1,44 @@
+2023-10-15 18:36:42.482 [info] Extension host with pid 12379 started
+2023-10-15 18:36:42.509 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/45b9b236/vscode.lock': Lock acquired.
+2023-10-15 18:36:48.581 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2023-10-15 18:36:48.582 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2023-10-15 18:36:48.583 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-10-15 18:36:48.583 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-15 18:36:48.584 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-10-15 18:36:48.584 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-10-15 18:36:48.585 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-15 18:36:48.585 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-15 18:36:48.784 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2023-10-15 18:36:48.784 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2023-10-15 18:36:48.784 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2023-10-15 18:36:48.786 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2023-10-15 18:36:48.786 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2023-10-15 18:36:52.335 [warning] Using default string since no string found in i18n bundle that has the key: You need to select a Python interpreter before you start debugging.
+
+Tip: click on "Select Interpreter" in the status bar.
+2023-10-15 18:36:52.336 [warning] Using default string since no string found in i18n bundle that has the key: The Python extension now includes Pylance to improve completions, code navigation, overall performance and much more! You can learn more about the update and learn how to change your language server [here](https://aka.ms/new-python-bundle).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2023-10-15 18:36:52.337 [warning] Using default string since no string found in i18n bundle that has the key: The Microsoft Python Language Server has reached end of life. Your language server has been set to the default for Python in VS Code, Pylance.
+
+If you'd like to change your language server, you can learn about how to do so [here](https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2021-release/#configuring-your-language-server).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2023-10-15 18:36:52.602 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2023-10-15 18:36:52.602 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2023-10-15 18:36:53.893 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-10-15 18:36:56.993 [info] Eager extensions activated
+2023-10-15 18:36:56.993 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-15 18:36:56.993 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-15 18:36:56.994 [info] ExtensionService#_doActivateExtension CS50.cs50, startup: false, activationEvent: 'onStartupFinished'
+2023-10-15 18:36:56.994 [info] ExtensionService#_doActivateExtension CS50.ddb50, startup: false, activationEvent: 'onStartupFinished'
+2023-10-15 18:36:56.994 [info] ExtensionService#_doActivateExtension CS50.explain50, startup: false, activationEvent: 'onStartupFinished'
+2023-10-15 18:36:56.994 [info] ExtensionService#_doActivateExtension CS50.extension-uninstaller, startup: false, activationEvent: 'onStartupFinished'
+2023-10-15 18:36:56.995 [info] ExtensionService#_doActivateExtension CS50.phpliteadmin, startup: false, activationEvent: 'onStartupFinished'
+2023-10-15 18:36:56.995 [info] ExtensionService#_doActivateExtension CS50.style50, startup: false, activationEvent: 'onStartupFinished'
+2023-10-15 18:36:56.995 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-10-15 18:36:56.995 [info] ExtensionService#_doActivateExtension inferrinizzard.prettier-sql-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-10-15 18:36:59.642 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: GitHub.vscode-pull-request-github
+2023-10-15 18:38:58.722 [error] Error: command 'gitdoc.enable' not found
+    at y.n (https://assets.github.dev/stable/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/workbench.web.main.js:1554:12298)
+    at y.executeCommand (https://assets.github.dev/stable/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/workbench.web.main.js:1554:12227)

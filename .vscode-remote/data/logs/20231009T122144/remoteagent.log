@@ -1,0 +1,193 @@
+2023-10-09 12:21:44.481 [trace] Remote configuration data at /home/ubuntu/.vscode-remote
+2023-10-09 12:21:44.481 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/ubuntu/.vscode-remote/data/Machine/.connection-token-e7e037083ff4455cf320e344325dacb480062c3c","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/ubuntu/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/ubuntu/.vscode-remote/extensionsCache","list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/ubuntu/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/e7e037083ff4455cf320e344325dacb480062c3c/extensions","extensions-dir":"/home/ubuntu/.vscode-remote/extensions","logsPath":"/home/ubuntu/.vscode-remote/data/logs/20231009T122144"}
+2023-10-09 12:21:44.481 [info] 
+
+
+
+
+2023-10-09 12:21:44.481 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/data/Machine (excludes: <none>, includes: <all>),/home/ubuntu/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>)
+2023-10-09 12:21:44.486 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/data/Machine'
+2023-10-09 12:21:44.488 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/data/Machine/settings.json'
+2023-10-09 12:21:44.506 [trace] ExtensionManagementService#cleanUp
+2023-10-09 12:21:44.507 [trace] ExtensionManagementService#removeTempDeleteFolders
+2023-10-09 12:21:44.509 [info] Extension host agent started.
+2023-10-09 12:21:44.541 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/extensions (excludes: <none>, includes: <all>)
+2023-10-09 12:21:44.545 [debug] No uninstalled extensions found.
+2023-10-09 12:21:44.551 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/dbaeumer.vscode-eslint-2.4.2
+2023-10-09 12:21:44.551 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/ms-azuretools.vscode-docker-1.26.1
+2023-10-09 12:21:44.552 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/ms-python.python-2023.19.12791027
+2023-10-09 12:21:44.552 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/vscjava.vscode-java-dependency-0.23.2023100802
+2023-10-09 12:21:44.554 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>)
+2023-10-09 12:21:44.554 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/extensions'
+2023-10-09 12:21:44.557 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions","external":"file:///home/ubuntu/.vscode-remote/extensions","path":"/home/ubuntu/.vscode-remote/extensions","scheme":"file"}
+2023-10-09 12:21:44.559 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/extensions/extensions.json'
+2023-10-09 12:21:44.978 [trace] Scanned user extensions: 34
+2023-10-09 12:21:45.048 [trace] [127.0.0.1][53af57e4][ExtensionHostConnection] - startParams language: ru
+2023-10-09 12:21:45.048 [trace] [127.0.0.1][53af57e4][ExtensionHostConnection] - startParams env: {}
+2023-10-09 12:21:45.049 [info] [127.0.0.1][53af57e4][ExtensionHostConnection] New connection established.
+2023-10-09 12:21:45.073 [info] [127.0.0.1][cfe9669e][ManagementConnection] New connection established.
+2023-10-09 12:21:45.160 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-09 12:21:45.168 [info] [127.0.0.1][53af57e4][ExtensionHostConnection] <326> Launched Extension Host Process.
+2023-10-09 12:21:45.383 [trace] Started scanning system extensions
+2023-10-09 12:21:45.383 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-09 12:21:45.384 [trace] ExtensionManagementService.refreshReportedCache
+2023-10-09 12:21:45.385 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-09 12:21:45.385 [trace] Started scanning system extensions
+2023-10-09 12:21:45.385 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-09 12:21:45.392 [trace] Started scanning system extensions
+2023-10-09 12:21:45.393 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-09 12:21:45.396 [info] Log level changed to info
+2023-10-09 12:22:03.141 [info] Getting Manifest... github.vscode-pull-request-github
+2023-10-09 12:22:03.141 [info] Getting Manifest... ms-ceintl.vscode-language-pack-cs
+2023-10-09 12:22:03.142 [info] Getting Manifest... ms-ceintl.vscode-language-pack-de
+2023-10-09 12:22:03.142 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2023-10-09 12:22:03.142 [info] Getting Manifest... ms-ceintl.vscode-language-pack-fr
+2023-10-09 12:22:03.142 [info] Getting Manifest... ms-ceintl.vscode-language-pack-it
+2023-10-09 12:22:03.142 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-10-09 12:22:03.142 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ko
+2023-10-09 12:22:03.173 [info] Installing extension: ms-ceintl.vscode-language-pack-it
+2023-10-09 12:22:03.181 [info] Installing extension: ms-ceintl.vscode-language-pack-cs
+2023-10-09 12:22:03.182 [info] Installing extension: ms-ceintl.vscode-language-pack-de
+2023-10-09 12:22:03.183 [info] Installing extension: ms-ceintl.vscode-language-pack-ko
+2023-10-09 12:22:03.184 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2023-10-09 12:22:03.186 [info] Getting Manifest... ms-ceintl.vscode-language-pack-pl
+2023-10-09 12:22:03.186 [info] Getting Manifest... ms-ceintl.vscode-language-pack-pt-br
+2023-10-09 12:22:03.186 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ru
+2023-10-09 12:22:03.186 [info] Getting Manifest... ms-ceintl.vscode-language-pack-zh-hans
+2023-10-09 12:22:03.186 [info] Getting Manifest... ms-ceintl.vscode-language-pack-zh-hant
+2023-10-09 12:22:03.186 [info] Getting Manifest... ms-python.python
+2023-10-09 12:22:03.186 [info] Getting Manifest... ms-python.vscode-pylance
+2023-10-09 12:22:03.199 [info] Installing extension: github.vscode-pull-request-github
+2023-10-09 12:22:03.200 [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+2023-10-09 12:22:03.202 [info] Installing extension: ms-ceintl.vscode-language-pack-fr
+2023-10-09 12:22:03.260 [info] Installing extension: ms-ceintl.vscode-language-pack-pl
+2023-10-09 12:22:03.260 [info] Installing extension: ms-ceintl.vscode-language-pack-pt-br
+2023-10-09 12:22:03.295 [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hant
+2023-10-09 12:22:03.297 [info] Installing extension: ms-ceintl.vscode-language-pack-ru
+2023-10-09 12:22:03.298 [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hans
+2023-10-09 12:22:03.337 [info] Installing extension: ms-python.python
+2023-10-09 12:22:03.338 [info] Installing extension: ms-python.vscode-pylance
+2023-10-09 12:22:06.115 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-it
+2023-10-09 12:22:06.177 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-es
+2023-10-09 12:22:06.177 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-de
+2023-10-09 12:22:06.206 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-cs
+2023-10-09 12:22:06.232 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-ko
+2023-10-09 12:22:06.301 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-ja
+2023-10-09 12:22:06.349 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-pt-br
+2023-10-09 12:22:06.350 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-pl
+2023-10-09 12:22:06.356 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-fr
+2023-10-09 12:22:06.531 [warning] Extension signature verification failed with error 'ENOENT': github.vscode-pull-request-github
+2023-10-09 12:22:06.545 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-zh-hant
+2023-10-09 12:22:06.558 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-ru
+2023-10-09 12:22:06.577 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-zh-hans
+2023-10-09 12:22:06.613 [warning] Extension signature verification failed with error 'ENOENT': ms-python.python
+2023-10-09 12:22:06.875 [info] Getting Manifest... ms-python.python
+2023-10-09 12:22:06.994 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-10-09 12:22:07.391 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2023-10-09 12:22:07.903 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.74.0: github.vscode-pull-request-github
+2023-10-09 12:22:07.909 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-it-1.83.2023100409: ms-ceintl.vscode-language-pack-it
+2023-10-09 12:22:07.915 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-cs-1.83.2023100409: ms-ceintl.vscode-language-pack-cs
+2023-10-09 12:22:07.921 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ko-1.83.2023100409: ms-ceintl.vscode-language-pack-ko
+2023-10-09 12:22:07.930 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pt-br-1.83.2023100409: ms-ceintl.vscode-language-pack-pt-br
+2023-10-09 12:22:07.931 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pl-1.83.2023100409: ms-ceintl.vscode-language-pack-pl
+2023-10-09 12:22:07.938 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.74.0
+2023-10-09 12:22:07.952 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.83.2023100409: ms-ceintl.vscode-language-pack-ja
+2023-10-09 12:22:07.953 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-cs-1.83.2023100409
+2023-10-09 12:22:07.954 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-it-1.83.2023100409
+2023-10-09 12:22:07.955 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-fr-1.83.2023100409: ms-ceintl.vscode-language-pack-fr
+2023-10-09 12:22:07.956 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-es-1.83.2023100409: ms-ceintl.vscode-language-pack-es
+2023-10-09 12:22:07.956 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ko-1.83.2023100409
+2023-10-09 12:22:07.961 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-10-09 12:22:07.961 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-de-1.83.2023100409: ms-ceintl.vscode-language-pack-de
+2023-10-09 12:22:07.963 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.83.2023100409: ms-ceintl.vscode-language-pack-zh-hant
+2023-10-09 12:22:07.970 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-cs
+2023-10-09 12:22:07.986 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-it
+2023-10-09 12:22:07.986 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.83.2023100409: ms-ceintl.vscode-language-pack-zh-hans
+2023-10-09 12:22:07.991 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pt-br-1.83.2023100409
+2023-10-09 12:22:07.991 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ko
+2023-10-09 12:22:07.992 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pl-1.83.2023100409
+2023-10-09 12:22:07.994 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.83.2023100409
+2023-10-09 12:22:07.995 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-fr-1.83.2023100409
+2023-10-09 12:22:08.017 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-es-1.83.2023100409
+2023-10-09 12:22:08.018 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.83.2023100409
+2023-10-09 12:22:08.018 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-de-1.83.2023100409
+2023-10-09 12:22:08.018 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-pt-br
+2023-10-09 12:22:08.022 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-pl
+2023-10-09 12:22:08.023 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ja
+2023-10-09 12:22:08.024 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-fr
+2023-10-09 12:22:08.027 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-es
+2023-10-09 12:22:08.027 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-zh-hant
+2023-10-09 12:22:08.028 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-de
+2023-10-09 12:22:08.034 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-10-09 12:22:08.036 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.83.2023100409
+2023-10-09 12:22:08.041 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.83.2023100409: ms-ceintl.vscode-language-pack-ru
+2023-10-09 12:22:08.043 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-zh-hans
+2023-10-09 12:22:08.045 [info] Marked extension as uninstalled github.vscode-pull-request-github-0.72.0
+2023-10-09 12:22:08.066 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.83.2023100409
+2023-10-09 12:22:08.069 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ru
+2023-10-09 12:22:08.080 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-cs
+2023-10-09 12:22:08.106 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-cs-1.82.2023091309
+2023-10-09 12:22:08.107 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-it
+2023-10-09 12:22:08.166 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-it-1.82.2023091309
+2023-10-09 12:22:08.169 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ko
+2023-10-09 12:22:08.203 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-ko-1.82.2023091309
+2023-10-09 12:22:08.205 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-pt-br
+2023-10-09 12:22:08.248 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-pl
+2023-10-09 12:22:08.257 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-pt-br-1.82.2023091309
+2023-10-09 12:22:08.300 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-pl-1.82.2023091309
+2023-10-09 12:22:08.309 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2023-10-09 12:22:08.332 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-ja-1.82.2023091309
+2023-10-09 12:22:08.333 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-fr
+2023-10-09 12:22:08.361 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-fr-1.82.2023091309
+2023-10-09 12:22:08.366 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2023-10-09 12:22:08.389 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-es-1.82.2023091309
+2023-10-09 12:22:08.395 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hant
+2023-10-09 12:22:08.423 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-zh-hant-1.82.2023091309
+2023-10-09 12:22:08.425 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-de
+2023-10-09 12:22:08.450 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-de-1.82.2023091309
+2023-10-09 12:22:08.585 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hans
+2023-10-09 12:22:08.610 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-cs
+2023-10-09 12:22:08.663 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-zh-hans-1.82.2023091309
+2023-10-09 12:22:08.824 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-it
+2023-10-09 12:22:08.954 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ko
+2023-10-09 12:22:09.064 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-pt-br
+2023-10-09 12:22:09.132 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-pl
+2023-10-09 12:22:09.217 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
+2023-10-09 12:22:09.220 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ru
+2023-10-09 12:22:09.281 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-fr
+2023-10-09 12:22:09.321 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-ru-1.82.2023091309
+2023-10-09 12:22:09.393 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+2023-10-09 12:22:09.487 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hant
+2023-10-09 12:22:09.562 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-de
+2023-10-09 12:22:09.621 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hans
+2023-10-09 12:22:09.653 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ru
+2023-10-09 12:22:13.146 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-python.python-2023.18.0: ms-python.python
+2023-10-09 12:22:13.583 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-python.python-2023.18.0
+2023-10-09 12:22:13.586 [info] Extracting extension completed. ms-python.python
+2023-10-09 12:22:13.611 [info] Extension installed successfully: ms-python.python
+2023-10-09 12:22:13.612 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-10-09 12:22:13.618 [info] Marked extension as uninstalled ms-python.python-2023.16.0
+2023-10-09 12:22:14.881 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.10.10: ms-python.vscode-pylance
+2023-10-09 12:22:14.920 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.10.10
+2023-10-09 12:22:14.923 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-10-09 12:22:14.946 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-10-09 12:22:14.949 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.9.30
+2023-10-09 12:26:44.511 [info] New EH opened, aborting shutdown
+2023-10-09 12:35:50.842 [info] [127.0.0.1][cfe9669e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-09 12:35:51.038 [info] [127.0.0.1][53af57e4][ExtensionHostConnection] <326> Extension Host Process exited with code: 0, signal: null.
+2023-10-09 12:35:51.039 [info] Last EH closed, waiting before shutting down
+2023-10-09 12:35:57.319 [info] [127.0.0.1][93848bcd][ManagementConnection] New connection established.
+2023-10-09 12:35:57.321 [info] [127.0.0.1][d7e21403][ExtensionHostConnection] New connection established.
+2023-10-09 12:35:57.328 [info] [127.0.0.1][d7e21403][ExtensionHostConnection] <6098> Launched Extension Host Process.
+2023-10-09 12:40:51.039 [info] New EH opened, aborting shutdown
+2023-10-09 12:49:50.812 [info] [127.0.0.1][93848bcd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-09 12:49:50.962 [info] [127.0.0.1][d7e21403][ExtensionHostConnection] <6098> Extension Host Process exited with code: 0, signal: null.
+2023-10-09 12:49:50.962 [info] Last EH closed, waiting before shutting down
+2023-10-09 12:49:56.038 [info] [127.0.0.1][5bdf27bb][ExtensionHostConnection] New connection established.
+2023-10-09 12:49:56.039 [info] [127.0.0.1][fa1971fe][ManagementConnection] New connection established.
+2023-10-09 12:49:56.044 [info] [127.0.0.1][5bdf27bb][ExtensionHostConnection] <12697> Launched Extension Host Process.
+2023-10-09 12:51:01.732 [info] [127.0.0.1][fa1971fe][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-09 12:51:01.884 [info] [127.0.0.1][5bdf27bb][ExtensionHostConnection] <12697> Extension Host Process exited with code: 0, signal: null.
+2023-10-09 12:51:01.884 [info] Cancelling previous shutdown timeout
+2023-10-09 12:51:01.885 [info] Last EH closed, waiting before shutting down
+2023-10-09 12:56:01.886 [info] Last EH closed, shutting down

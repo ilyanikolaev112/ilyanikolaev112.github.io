@@ -1,0 +1,889 @@
+[Client I] GitHub Codespaces version 1.15.4
+[Client I] isRunningInWeb: "true"
+[Client V] Initializing authentication
+[API I] Successfully signed in
+[Client:extension:344b I] initializing
+[Client:extension:344b I] creating LiveShare ConnectionHub
+[Client:extension:344b:resolver I] created with protocol "codespaces"
+[RemoteExplorer I] Updating codespace performance info
+[RemoteExplorer I] Updating codespace performance info
+[Client I] Connecting to current codespace: automatic-chainsaw-g4qp6w5g5997fv59j
+[Command:Connect I] Decorator starting: ErrorNotification
+[Command:Connect I] Decorator starting: Telemetry
+[Client I] Jupyter API registered? false
+[API:retries-left-2 I] making GET request for "https://api.github.com/user/codespaces/automatic-chainsaw-g4qp6w5g5997fv59j"
+[RemoteExplorer I] Updating codespace performance info
+[Client:extension:344b:resolver:resolve:1 I] resolve retry #3
+[Command:Connect I] Command [Connect to Codespace]: Connect to Codespace Success (757ms)
+[Command:Connect I] Decorator finishing: Telemetry. Duration: 2ms (0 + 2)
+[Client:extension:344b:resolver:resolve:1 I] resolving "codespaces+automatic-chainsaw-g4qp6w5g5997fv59j"
+[Client:extension:344b:resolver:resolve:1 I] codespace: "automatic-chainsaw-g4qp6w5g5997fv59j", fetching details
+[Command:Connect I] Decorator finishing: ErrorNotification. Duration: 2ms (1 + 1)
+[Client:extension:344b:resolver:resolve:1:fetch-codespace-info I] fetching codespace details for "automatic-chainsaw-g4qp6w5g5997fv59j"
+[Client:extension:344b:resolver:resolve:1:fetch-codespace-info I] signed in, getting the details
+[Client:extension:344b:resolver:resolve:1:fetch-codespace-info I] fetching codespace "automatic-chainsaw-g4qp6w5g5997fv59j" (retries left: 2)
+[API:retries-left-2 I] making GET request for "https://api.github.com/user/codespaces/automatic-chainsaw-g4qp6w5g5997fv59j"
+[RemoteExplorer I] Updating codespace performance info
+[Client:extension:344b:resolver I] successfully fetched codespace details> object #0: {
+  "id": 9957318,
+  "name": "<36:<redacted>>",
+  "environment_id": "7643987b-0ac5-4451-933f-97f429588ba8",
+  "owner": "<undefined:<redacted>>",
+  "billable_owner": {
+    "login": "code50",
+    "id": 89367332,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg5MzY3MzMy",
+    "avatar_url": "https://avatars.githubusercontent.com/u/89367332?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/code50",
+    "html_url": "https://github.com/code50",
+    "followers_url": "https://api.github.com/users/code50/followers",
+    "following_url": "https://api.github.com/users/code50/following{/other_user}",
+    "gists_url": "https://api.github.com/users/code50/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/code50/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/code50/subscriptions",
+    "organizations_url": "https://api.github.com/users/code50/orgs",
+    "repos_url": "https://api.github.com/users/code50/repos",
+    "events_url": "https://api.github.com/users/code50/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/code50/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "repository": {
+    "id": 686844750,
+    "node_id": "R_kgDOKPBrTg",
+    "name": "<9:<redacted>>",
+    "full_name": "code50/143985177",
+    "private": true,
+    "owner": "<undefined:<redacted>>",
+    "html_url": "https://github.com/code50/143985177",
+    "description": null,
+    "fork": false,
+    "url": "https://api.github.com/repos/code50/143985177",
+    "forks_url": "https://api.github.com/repos/code50/143985177/forks",
+    "keys_url": "https://api.github.com/repos/code50/143985177/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/code50/143985177/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/code50/143985177/teams",
+    "hooks_url": "https://api.github.com/repos/code50/143985177/hooks",
+    "issue_events_url": "https://api.github.com/repos/code50/143985177/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/code50/143985177/events",
+    "assignees_url": "https://api.github.com/repos/code50/143985177/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/code50/143985177/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/code50/143985177/tags",
+    "blobs_url": "https://api.github.com/repos/code50/143985177/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/code50/143985177/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/code50/143985177/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/code50/143985177/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/code50/143985177/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/code50/143985177/languages",
+    "stargazers_url": "https://api.github.com/repos/code50/143985177/stargazers",
+    "contributors_url": "https://api.github.com/repos/code50/143985177/contributors",
+    "subscribers_url": "https://api.github.com/repos/code50/143985177/subscribers",
+    "subscription_url": "https://api.github.com/repos/code50/143985177/subscription",
+    "commits_url": "https://api.github.com/repos/code50/143985177/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/code50/143985177/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/code50/143985177/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/code50/143985177/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/code50/143985177/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/code50/143985177/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/code50/143985177/merges",
+    "archive_url": "https://api.github.com/repos/code50/143985177/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/code50/143985177/downloads",
+    "issues_url": "https://api.github.com/repos/code50/143985177/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/code50/143985177/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/code50/143985177/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/code50/143985177/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/code50/143985177/labels{/name}",
+    "releases_url": "https://api.github.com/repos/code50/143985177/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/code50/143985177/deployments"
+  },
+  "machine": {
+    "name": "<14:<redacted>>",
+    "display_name": "2 cores, 8 GB RAM, 32 GB storage",
+    "operating_system": "linux",
+    "storage_in_bytes": 34359738368,
+    "memory_in_bytes": 8589934592,
+    "cpus": 2,
+    "prebuild_availability": null
+  },
+  "prebuild": null,
+  "created_at": "2023-09-04T11:15:48+07:00",
+  "updated_at": "2023-10-01T16:48:49+07:00",
+  "last_used_at": "2023-10-01T16:38:25+07:00",
+  "state": "Available",
+  "url": "https://api.github.com/user/codespaces/automatic-chainsaw-g4qp6w5g5997fv59j",
+  "git_status": {
+    "ahead": 0,
+    "behind": 0,
+    "has_unpushed_changes": true,
+    "has_uncommitted_changes": true,
+    "ref": "main"
+  },
+  "location": "WestEurope",
+  "idle_timeout_minutes": 30,
+  "web_url": "https://automatic-chainsaw-g4qp6w5g5997fv59j.github.dev",
+  "machines_url": "https://api.github.com/user/codespaces/automatic-chainsaw-g4qp6w5g5997fv59j/machines",
+  "start_url": "https://api.github.com/user/codespaces/automatic-chainsaw-g4qp6w5g5997fv59j/start",
+  "stop_url": "https://api.github.com/user/codespaces/automatic-chainsaw-g4qp6w5g5997fv59j/stop",
+  "pulls_url": null,
+  "recent_folders": [],
+  "runtime_constraints": {
+    "allowed_port_privacy_settings": [
+      "private",
+      "org",
+      "public"
+    ]
+  },
+  "connection": {
+    "sessionId": "FED03E4A05648376FC64B14D98E5AA2AEB12",
+    "sessionPath": "/workspaces/143985177",
+    "serviceUri": "https://prod.liveshare.vsengsaas.visualstudio.com/api/v1.2/",
+    "relayEndpoint": "sb://vsls-prod-ins-euw-private-relay.servicebus.windows.net/265fe1d370156e4ad81a71148bb79fd766eb--35843f44-4352-4a4f-8ba6-7a8a9e7409db",
+    "relaySas": "<256:<redacted>>",
+    "sessionToken": "<1154:<redacted>>",
+    "hostPublicKeys": [
+      "AAAAB3NzaC1yc2EAAAADAQABAAABAQDC/L7+QNPiuJSoALoH8m/xYRvLuUU31X66R10Swnj/3wfq8vk8wmPP0DrxFkVI1Lj3EMIjFKSOUgAdqsbxVtPIISdmgFwgpuKrabuLHfoxbXH8h0jACQQ5MXhDsHmhmMKjU6pASZE9AJwqTrstRCEmDHKw+UIWDeDQKDQCoSQC9mQCgKtHSHezpNLTm1hGbqtc8pFcziV6ahFBp0nskP3nw80L7sCNdHFX8g13bhTLmwbF+cJ42IVovofL9OOFUlSHhrl+k5megd5ZBQeHf9YsDnv+A6EXO2l3eABghb9HtvyIg170qf6YvXEYLUN9mfC6J1zBKYkDxGsJlFogdXX1"
+    ],
+    "tunnelProperties": {
+      "tunnelId": "gvf7vwk6",
+      "clusterId": "euw",
+      "domain": "app.github.dev",
+      "connectAccessToken": "<373:<redacted>>",
+      "managePortsAccessToken": "<380:<redacted>>",
+      "serviceUri": "https://global.rel.tunnels.api.visualstudio.com/"
+    }
+  },
+  "container_id": "05e312edf81fbada77ef16043ab9b6b3cf3e23708849bf6102a3d54e0d14c50f",
+  "display_name": "automatic chainsaw",
+  "devcontainer_path": ".devcontainer.json",
+  "pending_operation": false,
+  "feature_flags": {
+    "developer": false,
+    "useStorageV2": false,
+    "enableRemoteKernel": true,
+    "useBasisPortForwarding": false,
+    "removeExtraPfTunneling": true,
+    "useBasisPortForwardingWebUrl": false,
+    "useBasisPortForwardingWebUrlFallback": false,
+    "detailedActivityMonitor": false,
+    "vscodeAccountSwitching": false,
+    "disableLiveShareRpc": false,
+    "useBasisForMainConnectionsWebClient": false,
+    "enableSmbDiagnosticContinuousMonitoring": false,
+    "enableSmbDiagnosticOnAnomalyMonitoring": false,
+    "disableBasisPortSyncWorker": true,
+    "useEarlyWorkbenchWebClient": false,
+    "useCoiWebClient": false,
+    "Basis": true,
+    "Skuheapscaling": true,
+    "CacheIde": true,
+    "Developer": false,
+    "Eap": false
+  },
+  "retention_period_minutes": 43200,
+  "retention_expires_at": null,
+  "template": null,
+  "publish_url": null
+}
+[RemoteExplorer I] Updating codespace performance info
+[Client:extension:344b:resolver:resolve:1:check-codespace-state I] codespace automatic-chainsaw-g4qp6w5g5997fv59j (id: 7643987b-0ac5-4451-933f-97f429588ba8) is in the "Default" state
+[Client:extension:344b:resolver:resolve:1:check-codespace-state I] noop
+[Client:extension:344b:resolver I] Initializing RPC client
+[Client:extension:344b:resolver I] Running in web, using unix socket for communication
+[Client:extension:344b:resolver I] Initializing Node-based codespace host service client
+[Client:extension:344b:resolver I] Initializing Node-based Jupyter server host service client
+[Client:extension:344b:resolver I] Initializing Node-based VS Code server host service client
+[Client:extension:344b:resolver:resolve:1:check-codespace-state I] vscode connection options: > object #0: {
+  "token": "<1154:<redacted>>",
+  "environmentId": "7643987b-0ac5-4451-933f-97f429588ba8",
+  "workspaceId": "FED03E4A05648376FC64B14D98E5AA2AEB12",
+  "vsCodeCommit": "abd2f3db4bdb28f9e95536dfa84d8479f1eb312d",
+  "vsCodeQuality": "stable",
+  "extensions": [
+    "GitHub.codespaces",
+    "GitHub.vscode-pull-request-github"
+  ],
+  "telemetry": true,
+  "liveShareEndpoint": "https://prod.liveshare.vsengsaas.visualstudio.com/api/v1.2/",
+  "connectionInfo": {
+    "id": "FED03E4A05648376FC64B14D98E5AA2AEB12",
+    "relaySas": "<256:<redacted>>",
+    "relayLink": "sb://vsls-prod-ins-euw-private-relay.servicebus.windows.net/265fe1d370156e4ad81a71148bb79fd766eb--35843f44-4352-4a4f-8ba6-7a8a9e7409db",
+    "sessionToken": "<1154:<redacted>>",
+    "hostPublicKeys": [
+      "AAAAB3NzaC1yc2EAAAADAQABAAABAQDC/L7+QNPiuJSoALoH8m/xYRvLuUU31X66R10Swnj/3wfq8vk8wmPP0DrxFkVI1Lj3EMIjFKSOUgAdqsbxVtPIISdmgFwgpuKrabuLHfoxbXH8h0jACQQ5MXhDsHmhmMKjU6pASZE9AJwqTrstRCEmDHKw+UIWDeDQKDQCoSQC9mQCgKtHSHezpNLTm1hGbqtc8pFcziV6ahFBp0nskP3nw80L7sCNdHFX8g13bhTLmwbF+cJ42IVovofL9OOFUlSHhrl+k5megd5ZBQeHf9YsDnv+A6EXO2l3eABghb9HtvyIg170qf6YvXEYLUN9mfC6J1zBKYkDxGsJlFogdXX1"
+    ],
+    "tunnelProperties": {
+      "tunnelId": "gvf7vwk6",
+      "clusterId": "euw",
+      "domain": "app.github.dev",
+      "connectAccessToken": "<373:<redacted>>",
+      "managePortsAccessToken": "<380:<redacted>>",
+      "serviceUri": "https://global.rel.tunnels.api.visualstudio.com/"
+    }
+  }
+}
+[RemoteExplorer I] Updating codespace details
+[Client:extension:344b:resolver:resolve:1 I] requested to connect> object #0: {
+  "token": "<1154:<redacted>>",
+  "environmentId": "7643987b-0ac5-4451-933f-97f429588ba8",
+  "workspaceId": "FED03E4A05648376FC64B14D98E5AA2AEB12",
+  "vsCodeCommit": "abd2f3db4bdb28f9e95536dfa84d8479f1eb312d",
+  "vsCodeQuality": "stable",
+  "extensions": [
+    "GitHub.codespaces",
+    "GitHub.vscode-pull-request-github"
+  ],
+  "telemetry": true,
+  "liveShareEndpoint": "https://prod.liveshare.vsengsaas.visualstudio.com/api/v1.2/",
+  "connectionInfo": {
+    "id": "FED03E4A05648376FC64B14D98E5AA2AEB12",
+    "relaySas": "<256:<redacted>>",
+    "relayLink": "sb://vsls-prod-ins-euw-private-relay.servicebus.windows.net/265fe1d370156e4ad81a71148bb79fd766eb--35843f44-4352-4a4f-8ba6-7a8a9e7409db",
+    "sessionToken": "<1154:<redacted>>",
+    "hostPublicKeys": [
+      "AAAAB3NzaC1yc2EAAAADAQABAAABAQDC/L7+QNPiuJSoALoH8m/xYRvLuUU31X66R10Swnj/3wfq8vk8wmPP0DrxFkVI1Lj3EMIjFKSOUgAdqsbxVtPIISdmgFwgpuKrabuLHfoxbXH8h0jACQQ5MXhDsHmhmMKjU6pASZE9AJwqTrstRCEmDHKw+UIWDeDQKDQCoSQC9mQCgKtHSHezpNLTm1hGbqtc8pFcziV6ahFBp0nskP3nw80L7sCNdHFX8g13bhTLmwbF+cJ42IVovofL9OOFUlSHhrl+k5megd5ZBQeHf9YsDnv+A6EXO2l3eABghb9HtvyIg170qf6YvXEYLUN9mfC6J1zBKYkDxGsJlFogdXX1"
+    ],
+    "tunnelProperties": {
+      "tunnelId": "gvf7vwk6",
+      "clusterId": "euw",
+      "domain": "app.github.dev",
+      "connectAccessToken": "<373:<redacted>>",
+      "managePortsAccessToken": "<380:<redacted>>",
+      "serviceUri": "https://global.rel.tunnels.api.visualstudio.com/"
+    }
+  },
+  "clientId": "7ab4cb764d837769"
+}
+> object #1: [object Object]
+[Client:extension:344b:resolver:resolve:1:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d I] connection record: false
+[Client:extension:344b:resolver:resolve:1:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d I] creating new connection
+[Client:extension:344b:vscode V] creating connection without a timeout
+[Client:extension:344b:vscode I] creating connection> object #0: [object Object]
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode V] subscribing to onDispose event
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] asked to connect
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] creating new connection
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] creating connection
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] connection status changed: none -> connecting, error:> object #0: undefined
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] firing change event: > object #0: {
+  "status": "connecting",
+  "previousStatus": "none"
+}
+[Client:extension:344b:vscode:onConnectionChanged:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d I] none -> connecting
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] get LS connection
+[Client:extension:344b:liveshare-joint I] requested to connect once> object #0: {
+  "token": "<1154:<redacted>>",
+  "environmentId": "7643987b-0ac5-4451-933f-97f429588ba8",
+  "workspaceId": "FED03E4A05648376FC64B14D98E5AA2AEB12",
+  "vsCodeCommit": "abd2f3db4bdb28f9e95536dfa84d8479f1eb312d",
+  "vsCodeQuality": "stable",
+  "extensions": [
+    "GitHub.codespaces",
+    "GitHub.vscode-pull-request-github"
+  ],
+  "telemetry": true,
+  "liveShareEndpoint": "https://prod.liveshare.vsengsaas.visualstudio.com/api/v1.2/",
+  "connectionInfo": {
+    "id": "FED03E4A05648376FC64B14D98E5AA2AEB12",
+    "relaySas": "<256:<redacted>>",
+    "relayLink": "sb://vsls-prod-ins-euw-private-relay.servicebus.windows.net/265fe1d370156e4ad81a71148bb79fd766eb--35843f44-4352-4a4f-8ba6-7a8a9e7409db",
+    "sessionToken": "<1154:<redacted>>",
+    "hostPublicKeys": [
+      "AAAAB3NzaC1yc2EAAAADAQABAAABAQDC/L7+QNPiuJSoALoH8m/xYRvLuUU31X66R10Swnj/3wfq8vk8wmPP0DrxFkVI1Lj3EMIjFKSOUgAdqsbxVtPIISdmgFwgpuKrabuLHfoxbXH8h0jACQQ5MXhDsHmhmMKjU6pASZE9AJwqTrstRCEmDHKw+UIWDeDQKDQCoSQC9mQCgKtHSHezpNLTm1hGbqtc8pFcziV6ahFBp0nskP3nw80L7sCNdHFX8g13bhTLmwbF+cJ42IVovofL9OOFUlSHhrl+k5megd5ZBQeHf9YsDnv+A6EXO2l3eABghb9HtvyIg170qf6YvXEYLUN9mfC6J1zBKYkDxGsJlFogdXX1"
+    ],
+    "tunnelProperties": {
+      "tunnelId": "gvf7vwk6",
+      "clusterId": "euw",
+      "domain": "app.github.dev",
+      "connectAccessToken": "<373:<redacted>>",
+      "managePortsAccessToken": "<380:<redacted>>",
+      "serviceUri": "https://global.rel.tunnels.api.visualstudio.com/"
+    }
+  },
+  "clientId": "7ab4cb764d837769"
+}
+> object #1: [object Object]
+[Client:extension:344b:liveshare-joint I] requested to connect> object #0: {
+  "token": "<1154:<redacted>>",
+  "environmentId": "7643987b-0ac5-4451-933f-97f429588ba8",
+  "workspaceId": "FED03E4A05648376FC64B14D98E5AA2AEB12",
+  "vsCodeCommit": "abd2f3db4bdb28f9e95536dfa84d8479f1eb312d",
+  "vsCodeQuality": "stable",
+  "extensions": [
+    "GitHub.codespaces",
+    "GitHub.vscode-pull-request-github"
+  ],
+  "telemetry": true,
+  "liveShareEndpoint": "https://prod.liveshare.vsengsaas.visualstudio.com/api/v1.2/",
+  "connectionInfo": {
+    "id": "FED03E4A05648376FC64B14D98E5AA2AEB12",
+    "relaySas": "<256:<redacted>>",
+    "relayLink": "sb://vsls-prod-ins-euw-private-relay.servicebus.windows.net/265fe1d370156e4ad81a71148bb79fd766eb--35843f44-4352-4a4f-8ba6-7a8a9e7409db",
+    "sessionToken": "<1154:<redacted>>",
+    "hostPublicKeys": [
+      "AAAAB3NzaC1yc2EAAAADAQABAAABAQDC/L7+QNPiuJSoALoH8m/xYRvLuUU31X66R10Swnj/3wfq8vk8wmPP0DrxFkVI1Lj3EMIjFKSOUgAdqsbxVtPIISdmgFwgpuKrabuLHfoxbXH8h0jACQQ5MXhDsHmhmMKjU6pASZE9AJwqTrstRCEmDHKw+UIWDeDQKDQCoSQC9mQCgKtHSHezpNLTm1hGbqtc8pFcziV6ahFBp0nskP3nw80L7sCNdHFX8g13bhTLmwbF+cJ42IVovofL9OOFUlSHhrl+k5megd5ZBQeHf9YsDnv+A6EXO2l3eABghb9HtvyIg170qf6YvXEYLUN9mfC6J1zBKYkDxGsJlFogdXX1"
+    ],
+    "tunnelProperties": {
+      "tunnelId": "gvf7vwk6",
+      "clusterId": "euw",
+      "domain": "app.github.dev",
+      "connectAccessToken": "<373:<redacted>>",
+      "managePortsAccessToken": "<380:<redacted>>",
+      "serviceUri": "https://global.rel.tunnels.api.visualstudio.com/"
+    }
+  },
+  "clientId": "7ab4cb764d837769"
+}
+> object #1: [object Object]
+[Client:extension:344b:liveshare-joint:FED03E4A05648376FC64B14D98E5AA2AEB12 I] connection record: false
+[Client:extension:344b:liveshare-joint:FED03E4A05648376FC64B14D98E5AA2AEB12 I] creating new connection
+[Client:extension:344b:liveshare-joint V] creating connection without a timeout
+[Client:extension:344b:liveshare-joint I] creating connection> object #0: [object Object]
+[Client:extension:344b:liveshare-joint:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare-joint:liveshare V] subscribing to onDispose event
+[Client:extension:344b:liveshare-joint:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare-joint:liveshare I] asked to connect
+[Client:extension:344b:liveshare-joint:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare-joint:liveshare I] creating new connection
+[Client:extension:344b:liveshare-joint:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare-joint:liveshare I] creating connection
+[Client:extension:344b:liveshare-joint:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare-joint:liveshare I] connection status changed: none -> connecting, error:> object #0: undefined
+[Client:extension:344b:liveshare-joint:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare-joint:liveshare I] firing change event: > object #0: {
+  "status": "connecting",
+  "previousStatus": "none"
+}
+[Client:extension:344b:liveshare-joint:onConnectionChanged:FED03E4A05648376FC64B14D98E5AA2AEB12 I] none -> connecting
+[Client:extension:344b:liveshare I] requested to connect once> object #0: {
+  "token": "<1154:<redacted>>",
+  "environmentId": "7643987b-0ac5-4451-933f-97f429588ba8",
+  "workspaceId": "FED03E4A05648376FC64B14D98E5AA2AEB12",
+  "vsCodeCommit": "abd2f3db4bdb28f9e95536dfa84d8479f1eb312d",
+  "vsCodeQuality": "stable",
+  "extensions": [
+    "GitHub.codespaces",
+    "GitHub.vscode-pull-request-github"
+  ],
+  "telemetry": true,
+  "liveShareEndpoint": "https://prod.liveshare.vsengsaas.visualstudio.com/api/v1.2/",
+  "connectionInfo": {
+    "id": "FED03E4A05648376FC64B14D98E5AA2AEB12",
+    "relaySas": "<256:<redacted>>",
+    "relayLink": "sb://vsls-prod-ins-euw-private-relay.servicebus.windows.net/265fe1d370156e4ad81a71148bb79fd766eb--35843f44-4352-4a4f-8ba6-7a8a9e7409db",
+    "sessionToken": "<1154:<redacted>>",
+    "hostPublicKeys": [
+      "AAAAB3NzaC1yc2EAAAADAQABAAABAQDC/L7+QNPiuJSoALoH8m/xYRvLuUU31X66R10Swnj/3wfq8vk8wmPP0DrxFkVI1Lj3EMIjFKSOUgAdqsbxVtPIISdmgFwgpuKrabuLHfoxbXH8h0jACQQ5MXhDsHmhmMKjU6pASZE9AJwqTrstRCEmDHKw+UIWDeDQKDQCoSQC9mQCgKtHSHezpNLTm1hGbqtc8pFcziV6ahFBp0nskP3nw80L7sCNdHFX8g13bhTLmwbF+cJ42IVovofL9OOFUlSHhrl+k5megd5ZBQeHf9YsDnv+A6EXO2l3eABghb9HtvyIg170qf6YvXEYLUN9mfC6J1zBKYkDxGsJlFogdXX1"
+    ],
+    "tunnelProperties": {
+      "tunnelId": "gvf7vwk6",
+      "clusterId": "euw",
+      "domain": "app.github.dev",
+      "connectAccessToken": "<373:<redacted>>",
+      "managePortsAccessToken": "<380:<redacted>>",
+      "serviceUri": "https://global.rel.tunnels.api.visualstudio.com/"
+    }
+  },
+  "clientId": "7ab4cb764d837769"
+}
+> object #1: [object Object]
+[Client:extension:344b:liveshare I] requested to connect> object #0: {
+  "token": "<1154:<redacted>>",
+  "environmentId": "7643987b-0ac5-4451-933f-97f429588ba8",
+  "workspaceId": "FED03E4A05648376FC64B14D98E5AA2AEB12",
+  "vsCodeCommit": "abd2f3db4bdb28f9e95536dfa84d8479f1eb312d",
+  "vsCodeQuality": "stable",
+  "extensions": [
+    "GitHub.codespaces",
+    "GitHub.vscode-pull-request-github"
+  ],
+  "telemetry": true,
+  "liveShareEndpoint": "https://prod.liveshare.vsengsaas.visualstudio.com/api/v1.2/",
+  "connectionInfo": {
+    "id": "FED03E4A05648376FC64B14D98E5AA2AEB12",
+    "relaySas": "<256:<redacted>>",
+    "relayLink": "sb://vsls-prod-ins-euw-private-relay.servicebus.windows.net/265fe1d370156e4ad81a71148bb79fd766eb--35843f44-4352-4a4f-8ba6-7a8a9e7409db",
+    "sessionToken": "<1154:<redacted>>",
+    "hostPublicKeys": [
+      "AAAAB3NzaC1yc2EAAAADAQABAAABAQDC/L7+QNPiuJSoALoH8m/xYRvLuUU31X66R10Swnj/3wfq8vk8wmPP0DrxFkVI1Lj3EMIjFKSOUgAdqsbxVtPIISdmgFwgpuKrabuLHfoxbXH8h0jACQQ5MXhDsHmhmMKjU6pASZE9AJwqTrstRCEmDHKw+UIWDeDQKDQCoSQC9mQCgKtHSHezpNLTm1hGbqtc8pFcziV6ahFBp0nskP3nw80L7sCNdHFX8g13bhTLmwbF+cJ42IVovofL9OOFUlSHhrl+k5megd5ZBQeHf9YsDnv+A6EXO2l3eABghb9HtvyIg170qf6YvXEYLUN9mfC6J1zBKYkDxGsJlFogdXX1"
+    ],
+    "tunnelProperties": {
+      "tunnelId": "gvf7vwk6",
+      "clusterId": "euw",
+      "domain": "app.github.dev",
+      "connectAccessToken": "<373:<redacted>>",
+      "managePortsAccessToken": "<380:<redacted>>",
+      "serviceUri": "https://global.rel.tunnels.api.visualstudio.com/"
+    }
+  },
+  "clientId": "7ab4cb764d837769"
+}
+> object #1: [object Object]
+[Client:extension:344b:liveshare:FED03E4A05648376FC64B14D98E5AA2AEB12 I] connection record: false
+[Client:extension:344b:liveshare:FED03E4A05648376FC64B14D98E5AA2AEB12 I] creating new connection
+[Client:extension:344b:liveshare V] creating connection without a timeout
+[Client:extension:344b:liveshare I] creating connection> object #0: [object Object]
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare V] subscribing to onDispose event
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare I] asked to connect
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare I] creating new connection
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare I] creating connection
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare I] connection status changed: none -> connecting, error:> object #0: undefined
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare I] firing change event: > object #0: {
+  "status": "connecting",
+  "previousStatus": "none"
+}
+[Client:extension:344b:liveshare:onConnectionChanged:FED03E4A05648376FC64B14D98E5AA2AEB12 I] none -> connecting
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare I] creating workspace client> object #0: {
+  "token": "<1154:<redacted>>",
+  "environmentId": "7643987b-0ac5-4451-933f-97f429588ba8",
+  "workspaceId": "FED03E4A05648376FC64B14D98E5AA2AEB12",
+  "vsCodeCommit": "abd2f3db4bdb28f9e95536dfa84d8479f1eb312d",
+  "vsCodeQuality": "stable",
+  "extensions": [
+    "GitHub.codespaces",
+    "GitHub.vscode-pull-request-github"
+  ],
+  "telemetry": true,
+  "liveShareEndpoint": "https://prod.liveshare.vsengsaas.visualstudio.com/api/v1.2/",
+  "connectionInfo": {
+    "id": "FED03E4A05648376FC64B14D98E5AA2AEB12",
+    "relaySas": "<256:<redacted>>",
+    "relayLink": "sb://vsls-prod-ins-euw-private-relay.servicebus.windows.net/265fe1d370156e4ad81a71148bb79fd766eb--35843f44-4352-4a4f-8ba6-7a8a9e7409db",
+    "sessionToken": "<1154:<redacted>>",
+    "hostPublicKeys": [
+      "AAAAB3NzaC1yc2EAAAADAQABAAABAQDC/L7+QNPiuJSoALoH8m/xYRvLuUU31X66R10Swnj/3wfq8vk8wmPP0DrxFkVI1Lj3EMIjFKSOUgAdqsbxVtPIISdmgFwgpuKrabuLHfoxbXH8h0jACQQ5MXhDsHmhmMKjU6pASZE9AJwqTrstRCEmDHKw+UIWDeDQKDQCoSQC9mQCgKtHSHezpNLTm1hGbqtc8pFcziV6ahFBp0nskP3nw80L7sCNdHFX8g13bhTLmwbF+cJ42IVovofL9OOFUlSHhrl+k5megd5ZBQeHf9YsDnv+A6EXO2l3eABghb9HtvyIg170qf6YvXEYLUN9mfC6J1zBKYkDxGsJlFogdXX1"
+    ],
+    "tunnelProperties": {
+      "tunnelId": "gvf7vwk6",
+      "clusterId": "euw",
+      "domain": "app.github.dev",
+      "connectAccessToken": "<373:<redacted>>",
+      "managePortsAccessToken": "<380:<redacted>>",
+      "serviceUri": "https://global.rel.tunnels.api.visualstudio.com/"
+    }
+  },
+  "clientId": "7ab4cb764d837769"
+}
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] connecting to relay link:sb://vsls-prod-ins-euw-private-relay.servicebus.windows.net/265fe1d370156e4ad81a71148bb79fd766eb--35843f44-4352-4a4f-8ba6-7a8a9e7409db
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] creating node SSH...
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] authenticating...
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] SshClientSession connecting...
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Sending #0 KeyExchangeInitMessage
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] Local version: SSH-2.0-dev-tunnels-ssh_3.11.26, remote version: SSH-2.0-Microsoft.VisualStudio.Ssh_3.4
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Receiving #0 KeyExchangeInitMessage
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] KeyExchange negotiation: Server (ecdh-sha2-nistp384, ecdh-sha2-nistp256, diffie-hellman-group16-sha512, diffie-hellman-group14-sha256, ext-info-s) Client (ecdh-sha2-nistp384, ecdh-sha2-nistp256, diffie-hellman-group14-sha256) => ecdh-sha2-nistp384
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] PublicKey negotiation: Server (rsa-sha2-512, rsa-sha2-256) Client (rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp384, ecdsa-sha2-nistp256) => rsa-sha2-512
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] ClientEncryption negotiation: Server (aes256-gcm@openssh.com, aes256-cbc, aes256-ctr) Client (aes256-gcm@openssh.com, aes256-ctr) => aes256-gcm@openssh.com
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] ServerEncryption negotiation: Server (aes256-gcm@openssh.com, aes256-cbc, aes256-ctr) Client (aes256-gcm@openssh.com, aes256-ctr) => aes256-gcm@openssh.com
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] ClientHmac negotiation: Server (hmac-sha2-512-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512, hmac-sha2-256) Client (hmac-sha2-512-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512, hmac-sha2-256) => hmac-sha2-512-etm@openssh.com
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] ServerHmac negotiation: Server (hmac-sha2-512-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512, hmac-sha2-256) Client (hmac-sha2-512-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512, hmac-sha2-256) => hmac-sha2-512-etm@openssh.com
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] ClientCompression negotiation: Server (none) Client (none) => none
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] ServerCompression negotiation: Server (none) Client (none) => none
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Sending #1 KeyExchangeDhInitMessage
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Receiving #1 KeyExchangeDhReplyMessage
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Server public key verification succeeded.
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Sending #2 NewKeysMessage
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Receiving #2 NewKeysMessage
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Sending #3 ExtensionInfoMessage (server-sig-algs=rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp256; open-channel-request@microsoft.com; session-reconnect@microsoft.com; session-latency@microsoft.com)
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] SshClientSession encrypted.
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] SshClientSession Authenticating([ssh-rsa])
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] SshClientSession server authenticated.
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Sending #4 ServiceRequestMessage
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Sending #5 PasswordRequestMessage (Method: password, Username: )
+[perf V] name:Creating the ssh workspace session duration:122.44067599996924
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient:SshWorkspaceSession V] subscribing to onDispose event
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] join started
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Sending #6 ChannelOpenMessage(channelType=session, senderChannel=1)
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Sending #7 SessionChannelRequestMessage (requestType=initial-channel-request@microsoft.com)
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Receiving #3 ExtensionInfoMessage (open-channel-request@microsoft.com; server-sig-algs=rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp256; session-latency@microsoft.com; session-reconnect@microsoft.com)
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Sending #8 SessionRequestMessage (requestType=enable-session-reconnect@microsoft.com)
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Receiving #4 SessionRequestMessage (requestType=enable-session-reconnect@microsoft.com)
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Receiving #5 ServiceAcceptMessage
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Receiving #6 AuthenticationSuccessMessage
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] SshClientSession client authenticated.
+[perf V] name:Ssh auth completion duration:264.151179999928
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Receiving #7 ChannelOpenConfirmationMessage (recipientChannel=1)(senderChannel=0)
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Receiving #8 SessionRequestSuccessMessage
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] < version.exchangeVersions()
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] > version.exchangeVersions() succeeded t:4.0
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] Host version: {"version":"1.0.5571.49914","protocolVersion":"2.2","platformName":"Linux 6.2.0","platformVersion":"6.2.0.1012"}
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] < workspace.joinWorkspace()
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] > workspace.joinWorkspace() succeeded t:11.0
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] joinWorkspace -> session:15 conversation:35843f44-4352-4a4f-8ba6-7a8a9e7409db join messages count:2
+[perf V] name:Joining the workspace duration:285.3789790000301
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] join completed
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient:1 I] Start checking connection timeout:5000
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] subscribing to onDispose event
+[perf V] name:join LiveShare session duration:410.94633299997076
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare V] setWorkspaceSessionInfo> object #0: {
+  "sessionNumber": 15,
+  "conversationId": "35843f44-4352-4a4f-8ba6-7a8a9e7409db",
+  "connectionMode": "local",
+  "sessions": {
+    "1": {
+      "id": "vm_446f18a2-c7c2-4c22-9d3e-801cc889cd95",
+      "email": "<null>",
+      "userName": "<null>",
+      "provider": "vscs",
+      "avatarUri": "",
+      "isOwner": true,
+      "isHost": true,
+      "clientCapabilities": {
+        "extensionReadOnlySupport": true,
+        "clientReadOnlySupport": true,
+        "emptyWorkspaceOpenFolderSupport": true,
+        "persistentRootSupport": true
+      }
+    },
+    "5": {
+      "id": "398a6654-997b-47e9-b12b-9515b896b4de_143985177",
+      "name": "<15:<redacted>>",
+      "email": "<redacted>",
+      "userName": "<15:<redacted>>",
+      "provider": "github",
+      "avatarUri": "",
+      "isOwner": true,
+      "clientCapabilities": {}
+    },
+    "8": {
+      "id": "398a6654-997b-47e9-b12b-9515b896b4de_143985177",
+      "name": "<15:<redacted>>",
+      "email": "<redacted>",
+      "userName": "<15:<redacted>>",
+      "provider": "github",
+      "avatarUri": "",
+      "isOwner": true,
+      "clientCapabilities": {}
+    },
+    "13": {
+      "id": "398a6654-997b-47e9-b12b-9515b896b4de_143985177",
+      "name": "<15:<redacted>>",
+      "email": "<redacted>",
+      "userName": "<15:<redacted>>",
+      "provider": "github",
+      "avatarUri": "",
+      "isOwner": true,
+      "clientCapabilities": {}
+    },
+    "14": {
+      "id": "398a6654-997b-47e9-b12b-9515b896b4de_143985177",
+      "name": "<15:<redacted>>",
+      "email": "<redacted>",
+      "userName": "<15:<redacted>>",
+      "provider": "github",
+      "avatarUri": "",
+      "isOwner": true,
+      "clientCapabilities": {}
+    },
+    "15": {
+      "id": "398a6654-997b-47e9-b12b-9515b896b4de_143985177",
+      "name": "<15:<redacted>>",
+      "email": "<redacted>",
+      "userName": "<15:<redacted>>",
+      "provider": "github",
+      "avatarUri": "",
+      "isOwner": true,
+      "clientCapabilities": {}
+    }
+  },
+  "accessControl": {
+    "defaultAccessControl": {},
+    "userAccessControl": {}
+  },
+  "isPresentation": false,
+  "allowPortForwardingExternalConnections": false,
+  "rootFullPaths": [
+    "/~0"
+  ],
+  "serviceNames": null,
+  "id": "265FE1D370156E4AD81A71148BB79FD766EB",
+  "name": "<9:<redacted>>",
+  "joinUri": "https://prod.liveshare.vsengsaas.visualstudio.com/join?265FE1D370156E4AD81A71148BB79FD766EB",
+  "ownerId": "398a6654-997b-47e9-b12b-9515b896b4de_143985177",
+  "expiresAt": "2023-10-31T09:37:08.778862Z"
+}
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare I] ownerId: "398a6654-997b-47e9-b12b-9515b896b4de_143985177"
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare I] LS session joined and authenticated
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] Creating proxy for workspace service
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare I] connection status changed: connecting -> connected, error:> object #0: undefined
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare I] firing change event: > object #0: {
+  "status": "connected",
+  "previousStatus": "connecting"
+}
+[Client:extension:344b:liveshare:onConnectionChanged:FED03E4A05648376FC64B14D98E5AA2AEB12 I] connecting -> connected
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare I] 🔌 connected
+[Client:extension:344b:liveshare:connection-record V] subscribing to onDispose event
+[Client:extension:344b:liveshare-joint:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare-joint:liveshare V] subscribing to onDispose event
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare V] subscribing to onDispose event
+[Client:extension:344b:liveshare-joint:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare-joint:liveshare I] connection status changed: connecting -> connected, error:> object #0: undefined
+[Client:extension:344b:liveshare-joint:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare-joint:liveshare I] firing change event: > object #0: {
+  "status": "connected",
+  "previousStatus": "connecting"
+}
+[Client:extension:344b:liveshare-joint:onConnectionChanged:FED03E4A05648376FC64B14D98E5AA2AEB12 I] connecting -> connected
+[Client:extension:344b:liveshare-joint:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare-joint:liveshare I] 🔌 connected
+[Client:extension:344b:liveshare-joint:connection-record V] subscribing to onDispose event
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode V] subscribing to onDispose event
+[Client:extension:344b:liveshare-joint:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare-joint:liveshare V] subscribing to onDispose event
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] Creating proxy for serverSharing service
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] Creating proxy for IVSCodeServerHostService service
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] Creating proxy for ICodespaceHostService service
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] starting vscode server..> object #0: {
+  "token": "<1154:<redacted>>",
+  "environmentId": "7643987b-0ac5-4451-933f-97f429588ba8",
+  "workspaceId": "FED03E4A05648376FC64B14D98E5AA2AEB12",
+  "vsCodeCommit": "abd2f3db4bdb28f9e95536dfa84d8479f1eb312d",
+  "vsCodeQuality": "stable",
+  "extensions": [
+    "GitHub.codespaces",
+    "GitHub.vscode-pull-request-github"
+  ],
+  "telemetry": true,
+  "liveShareEndpoint": "https://prod.liveshare.vsengsaas.visualstudio.com/api/v1.2/",
+  "connectionInfo": {
+    "id": "FED03E4A05648376FC64B14D98E5AA2AEB12",
+    "relaySas": "<256:<redacted>>",
+    "relayLink": "sb://vsls-prod-ins-euw-private-relay.servicebus.windows.net/265fe1d370156e4ad81a71148bb79fd766eb--35843f44-4352-4a4f-8ba6-7a8a9e7409db",
+    "sessionToken": "<1154:<redacted>>",
+    "hostPublicKeys": [
+      "AAAAB3NzaC1yc2EAAAADAQABAAABAQDC/L7+QNPiuJSoALoH8m/xYRvLuUU31X66R10Swnj/3wfq8vk8wmPP0DrxFkVI1Lj3EMIjFKSOUgAdqsbxVtPIISdmgFwgpuKrabuLHfoxbXH8h0jACQQ5MXhDsHmhmMKjU6pASZE9AJwqTrstRCEmDHKw+UIWDeDQKDQCoSQC9mQCgKtHSHezpNLTm1hGbqtc8pFcziV6ahFBp0nskP3nw80L7sCNdHFX8g13bhTLmwbF+cJ42IVovofL9OOFUlSHhrl+k5megd5ZBQeHf9YsDnv+A6EXO2l3eABghb9HtvyIg170qf6YvXEYLUN9mfC6J1zBKYkDxGsJlFogdXX1"
+    ],
+    "tunnelProperties": {
+      "tunnelId": "gvf7vwk6",
+      "clusterId": "euw",
+      "domain": "app.github.dev",
+      "connectAccessToken": "<373:<redacted>>",
+      "managePortsAccessToken": "<380:<redacted>>",
+      "serviceUri": "https://global.rel.tunnels.api.visualstudio.com/"
+    }
+  },
+  "clientId": "7ab4cb764d837769"
+}
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] > workspace.servicesChanged: 
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] > workspace.progressUpdated: 
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] Executed start-remote-server using gRPC
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] vscode started, forwarding the server port
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] the server port forwarded, port number is 37145
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] vscode server startup complete
+[perf V] name:start vscode server duration:635.3443719999632
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] forwarding the VSCode Server port "37145".
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] < serverSharing.startSharing()
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] > serverSharing.sharingSucceeded: 
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] > serverSharing.startSharing() succeeded t:6.0
+[perf V] name:share vscode server TCP port duration:6.758023999980651
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] VSCode Server port "37145" forwarded.
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] Creating proxy for streamManager service
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] connection status changed: connecting -> connected, error:> object #0: undefined
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] firing change event: > object #0: {
+  "status": "connected",
+  "previousStatus": "connecting"
+}
+[Client:extension:344b:vscode:onConnectionChanged:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d I] connecting -> connected
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] 🔌 connected
+[Client:extension:344b:vscode:connection-record V] subscribing to onDispose event
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] < streamManager.getStream()
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] < streamManager.getStream()
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode V] subscribing to onDispose event
+[Client:extension:344b:resolver V] tunneling the connection> object #0: [object Object]
+[Client:extension:344b:resolver V] Tunneling vscode server port> object #0: false
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode V] subscribing to onDispose event
+[Client:extension:344b:resolver V] reviving tunnels
+[Client:extension:344b:resolver V] reviving tunnels
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] < serverSharing.getSharedServers()
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] > streamManager.getStream() succeeded t:12.0
+[perf V] name:get stream Id duration:14.84157100005541
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] openStreamingChannel -> streamId:ServerSharing_48
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Sending #15 ChannelOpenMessage(channelType=session, senderChannel=2)
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] > serverSharing.getSharedServers() succeeded t:8.0
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode V] got shared servers list> object #0: [
+  "CodespacesInternal:16634:private:true:false",
+  "CodespacesInternal_web:16635:private:true:false",
+  "Port: 8082:8082:private:false:false",
+  "Port: 8080:8080:private:false:false",
+  "Port: 6081:6081:private:false:false",
+  "Port: 5900:5900:private:false:false",
+  "Port: 5000:5000:private:false:false",
+  "VSCodeServerInternal:37145:private:true:false"
+]
+[Client:extension:344b:resolver I] skipping Codespaces internal tunnel> object #0: #16634
+[Client:extension:344b:resolver I] skipping Codespaces internal tunnel> object #0: #16635
+[Client:extension:344b:resolver I] skipping vscode server tunnel> object #0: #37145
+[Client:extension:344b:resolver V] tunnels revived
+[Client:extension:344b:resolver V] init server sharing event listeners
+[Client:extension:344b:resolver:resolve:1 I] vscode server remote port: "37145", local port: "undefined"}
+[Client V] connect duration: 2137 ms
+[BrowserConnectorService V] Initializing BrowserConnectorService using connection> object #0: [object Object]
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] Creating proxy for sourceEvent service
+[BrowserConnectorService V] BrowserConnectorService.sendMessage: {"initialized":true,"message":"codespaces:browser-connector-service-initialized","payload":"<probably pii>"}
+[Client:extension:344b:resolver:resolve:1 I] Progress: Done
+[Client:extension:344b:resolver I] Subscribed to event stream
+[Client:extension:344b:resolver:resolve:1:background-tasks I] launching background configuration tasks
+[Client:extension:344b:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: addEnvironmentConfiguredEventCallback()
+[Client:extension:344b:resolver:resolve:1:background-tasks:post-attach-command-manager V] subscribing to onDispose event
+[Client:extension:344b:resolver:resolve:1:background-tasks I] no max idle timeout notice
+[Client:extension:344b:resolver:resolve:1:background-tasks V] checking correctness of the codespace session path> object #0: [
+  {
+    "uri": {
+      "$mid": 1,
+      "fsPath": "/home",
+      "external": "file:///home",
+      "path": "/home",
+      "scheme": "file"
+    },
+    "name": "<4:<redacted>>",
+    "index": 0
+  }
+]
+[Client:extension:344b:resolver:resolve:1:background-tasks I] session path correction - progressType: "0"
+[Client:extension:344b:resolver:resolve:1:background-tasks I] starting activity monitor, isRunningInWeb: "true"
+[Client:extension:344b:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] isRunningInWeb: true
+[Client:extension:344b:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] starting activity monitor
+[Client:extension:344b:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] Creating proxy for IEnvironmentConfigurationService service
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] < sourceEvent.fireEvent()
+[Client:extension:344b:resolver I] asking vscode to open the tunnel> object #0: #8082
+> object #1: "127.0.0.1"
+[Client:extension:344b:resolver I] asking vscode to open the tunnel> object #0: #8080
+> object #1: "127.0.0.1"
+[Client:extension:344b:resolver I] asking vscode to open the tunnel> object #0: #6081
+> object #1: "127.0.0.1"
+[Client:extension:344b:resolver I] asking vscode to open the tunnel> object #0: #5900
+> object #1: "127.0.0.1"
+[Client:extension:344b:resolver I] asking vscode to open the tunnel> object #0: #5000
+> object #1: "127.0.0.1"
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Receiving #16 ChannelOpenConfirmationMessage (recipientChannel=2)(senderChannel=1)
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Sending #17 ChannelRequestMessage (recipientChannel=1)
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] > streamManager.getStream() succeeded t:88.0
+[perf V] name:get stream Id duration:89.58356100006495
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient I] openStreamingChannel -> streamId:ServerSharing_49
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Sending #18 ChannelOpenMessage(channelType=session, senderChannel=3)
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] > sourceEvent.event: 
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Receiving #19 ChannelOpenConfirmationMessage (recipientChannel=3)(senderChannel=2)
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Sending #19 ChannelRequestMessage (recipientChannel=2)
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] > sourceEvent.fireEvent() succeeded t:60.0
+[Client:extension:344b:resolver I] Received event: Subscribed
+[Client:extension:344b:resolver I] Client baef45ae-3f46-40eb-a341-e8752d1880e4 subscribed to event stream
+[Client:extension:344b:resolver I] Received event: CreationLogUpdated
+[Client:extension:344b:resolver I] Event payload: {"text":"Finding image...","type":"inProgress","isStreamingLogs":false}
+[Client:extension:344b:resolver I] Received event: CreationLogUpdated
+[Client:extension:344b:resolver I] Event payload: {"text":"Image found.","type":"succeeded","isStreamingLogs":false}
+[Client:extension:344b:resolver I] Received event: CreationLogUpdated
+[Client:extension:344b:resolver I] Event payload: {"text":"Building container...","type":"inProgress","isStreamingLogs":true}
+[Client:extension:344b:resolver I] Received event: CreationLogUpdated
+[Client:extension:344b:resolver I] Event payload: {"text":"Container built.","type":"succeeded","isStreamingLogs":false}
+[Client:extension:344b:resolver I] Received event: EnvironmentConfigured
+[Client:extension:344b:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: handleEnvironmentConfiguredEvent()
+[Client:extension:344b:resolver:resolve:1:background-tasks I] Executed is-recovery-container using gRPC
+[Client:extension:344b:resolver:resolve:1:background-tasks V] not in recovery container
+[Client:extension:344b:resolver:resolve:1:background-tasks I] Executed get-container-persisted-folder using gRPC
+[Client:extension:344b:resolver:resolve:1:background-tasks V] container folder path: "/workspaces/.codespaces/.persistedshare"
+[Client:extension:344b:resolver:resolve:1:background-tasks V] shared folder path: "/workspaces/.codespaces/shared/postCreateOutput.json"
+[Client:extension:344b:resolver:resolve:1:background-tasks V] shared file path: "/workspaces/.codespaces/shared/postCreateOutput.json"
+[ResourceUsage I] Executed get-container-persisted-folder using gRPC
+[ResourceUsage V] container folder path: "/workspaces/.codespaces/.persistedshare"
+[ResourceUsage V] shared folder path: "/workspaces/.codespaces/shared/resource-usage.json"
+[ResourceUsage V] shared file path: "/workspaces/.codespaces/shared/resource-usage.json"
+[ResourceUsage I] Starting monitor
+[ResourceUsage I] Checking if the codespace connection exists
+[Performance I] Executed get-container-persisted-folder using gRPC
+[Client:extension:344b:resolver:resolve:1:background-tasks I] Executed configure-environment using gRPC
+[Client:extension:344b:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:344b:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] > sourceEvent.event: 
+[Client:extension:344b:resolver I] vscode to open the tunnel completed> object #0: #8082
+> object #1: "127.0.0.1"
+[Client:extension:344b:resolver I] vscode to open the tunnel completed> object #0: #8080
+> object #1: "127.0.0.1"
+[Client:extension:344b:resolver I] vscode to open the tunnel completed> object #0: #6081
+> object #1: "127.0.0.1"
+[Client:extension:344b:resolver I] vscode to open the tunnel completed> object #0: #5900
+> object #1: "127.0.0.1"
+[Client:extension:344b:resolver I] vscode to open the tunnel completed> object #0: #5000
+> object #1: "127.0.0.1"
+[Client:extension:344b:resolver:resolve:1:background-tasks:openDefaultFiles I] Skipping openFiles in the web because it is handled by the embedder
+[Performance I] Starting monitor
+[Performance I] Checking if the codespace connection exists
+[RemoteExplorer I] Updating codespace performance info
+[RemoteExplorer I] Updating codespace details
+[Client:extension:344b:resolver V] disposing reason: 'vscode disposed the resolver', disposing 4 objects
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] skipping unforward of VS Code port
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] connection status changed: connected -> disconnected, error:> object #0: Disposing normally: vscode disposed the resolver $2
+  at k.dispose (/home/ubuntu/.vscode-remote/extensions/workspace/connection-hub/dist/src/connection/Connection.js:120:57)
+  at k.dispose (/home/ubuntu/.vscode-remote/extensions/workspace/connection-hub/dist/src/connection/VSCodeConnection.js:458:26)
+  at Fl.disposeObject (/home/ubuntu/.vscode-remote/extensions/utils/dist/src/components/DisposableClass.js:30:28)
+  at /home/ubuntu/.vscode-remote/extensions/utils/dist/src/components/DisposableClass.js:106:29
+  at Array.forEach (<anonymous>)
+  at Fl.dispose (/home/ubuntu/.vscode-remote/extensions/utils/dist/src/components/DisposableClass.js:98:30)
+  at Object.dispose (/home/ubuntu/.vscode-remote/extensions/github.codespaces-1.15.4/src/abstractions/node/resolver.ts:37:22)
+  at k (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)
+  at n.Z (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:119:9652)
+  at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:119:7585
+  at Array.map (<anonymous>)
+  at n.S (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:119:7572)
+  at n.terminate (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:119:7844)
+  at o.terminate (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:123:1513)
+  at D (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:136:9800)
+  at n.value (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:136:7847)
+  at m.w (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+  at m.fire (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+  at v.fire (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:79:13940)
+  at s.z (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:79:17005)
+  at n.value (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:79:15457)
+  at m.w (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+  at m.fire (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+  at n.acceptChunk (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:79:11714)
+  at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:79:11001
+  at Socket.p (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:133:12793)
+  at Socket.emit (node:events:513:28)
+  at addChunk (node:internal/streams/readable:324:12)
+  at readableAddChunk (node:internal/streams/readable:297:9)
+  at Socket.Readable.push (node:internal/streams/readable:234:10)
+  at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] firing change event: > object #0: {
+  "status": "disconnected",
+  "previousStatus": "connected",
+  "error": "Disposing normally: vscode disposed the resolver $2\n  at k.dispose (/home/ubuntu/.vscode-remote/extensions/workspace/connection-hub/dist/src/connection/Connection.js:120:57)\n  at k.dispose (/home/ubuntu/.vscode-remote/extensions/workspace/connection-hub/dist/src/connection/VSCodeConnection.js:458:26)\n  at Fl.disposeObject (/home/ubuntu/.vscode-remote/extensions/utils/dist/src/components/DisposableClass.js:30:28)\n  at /home/ubuntu/.vscode-remote/extensions/utils/dist/src/components/DisposableClass.js:106:29\n  at Array.forEach (<anonymous>)\n  at Fl.dispose (/home/ubuntu/.vscode-remote/extensions/utils/dist/src/components/DisposableClass.js:98:30)\n  at Object.dispose (/home/ubuntu/.vscode-remote/extensions/github.codespaces-1.15.4/src/abstractions/node/resolver.ts:37:22)\n  at k (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)\n  at n.Z (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:119:9652)\n  at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:119:7585\n  at Array.map (<anonymous>)\n  at n.S (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:119:7572)\n  at n.terminate (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:119:7844)\n  at o.terminate (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:123:1513)\n  at D (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:136:9800)\n  at n.value (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:136:7847)\n  at m.w (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)\n  at m.fire (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)\n  at v.fire (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:79:13940)\n  at s.z (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:79:17005)\n  at n.value (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:79:15457)\n  at m.w (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)\n  at m.fire (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)\n  at n.acceptChunk (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:79:11714)\n  at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:79:11001\n  at Socket.p (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:133:12793)\n  at Socket.emit (node:events:513:28)\n  at addChunk (node:internal/streams/readable:324:12)\n  at readableAddChunk (node:internal/streams/readable:297:9)\n  at Socket.Readable.push (node:internal/streams/readable:234:10)\n  at TCP.onStreamRead (node:internal/stream_base_commons:190:23)"
+}
+[Client:extension:344b:vscode:onConnectionChanged:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d I] connected -> disconnected
+[Client:extension:344b:vscode:onConnectionChanged:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d I] disposing the connection
+[Client:extension:344b:vscode I] disposing FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d connection
+[Client:extension:344b:vscode:connection-record V] disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Disposing normally: vscode disposed the resolver $2",
+  "originalErrorType": "<no original type>",
+  "errorCode": -1,
+  "errorType": "ConnectionCancellationError",
+  "stack": "Error: Disposing normally: vscode disposed the resolver $2\n    at k.dispose [PATH]/Connection.js:120:57)\n    at k.dispose [PATH]/VSCodeConnection.js:458:26)\n    at Fl.disposeObject [PATH]/DisposableClass.js:30:28)\n    at [PATH]/DisposableClass.js:106:29\n    at Array.forEach (<anonymous>)\n    at Fl.dispose [PATH]/DisposableClass.js:98:30)\n    at Object.dispose [PATH]/resolver.ts:37:22)\n    at k [PATH]/extensionHostProcess.js:13:11730)\n    at n.Z [PATH]/extensionHostProcess.js:119:9652)\n    at [PATH]/extensionHostProcess.js:119:7585\n    at Array.map (<anonymous>)\n    at n.S [PATH]/extensionHostProcess.js:119:7572)\n    at n.terminate [PATH]/extensionHostProcess.js:119:7844)\n    at o.terminate [PATH]/extensionHostProcess.js:123:1513)\n    at D [PATH]/extensionHostProcess.js:136:9800)\n    at n.value [PATH]/extensionHostProcess.js:136:7847)\n    at m.w [PATH]/extensionHostProcess.js:63:1902)\n    at m.fire [PATH]/extensionHostProcess.js:63:2119)\n    at v.fire [PATH]/extensionHostProcess.js:79:13940)\n    at s.z [PATH]/extensionHostProcess.js:79:17005)\n    at n.value [PATH]/extensionHostProcess.js:79:15457)\n    at m.w [PATH]/extensionHostProcess.js:63:1902)\n    at m.fire [PATH]/extensionHostProcess.js:63:2119)\n    at n.acceptChunk [PATH]/extensionHostProcess.js:79:11714)\n    at [PATH]/extensionHostProcess.js:79:11001\n    at Socket.p [PATH]/extensionHostProcess.js:133:12793)\n    at Socket.emit (node:events:513:28)\n    at addChunk [PATH]/readable:324:12)\n    at readableAddChunk [PATH]/readable:297:9)\n    at Socket.Readable.push [PATH]/readable:234:10)\n    at TCP.onStreamRead [PATH]/stream_base_commons:190:23)"
+}', disposing 2 objects
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode I] skipping unforward of VS Code port
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode V] disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Disposing normally: vscode disposed the resolver $2",
+  "originalErrorType": "<no original type>",
+  "errorCode": -1,
+  "errorType": "ConnectionCancellationError",
+  "stack": "Error: Disposing normally: vscode disposed the resolver $2\n    at k.dispose [PATH]/Connection.js:120:57)\n    at k.dispose [PATH]/VSCodeConnection.js:458:26)\n    at Fl.disposeObject [PATH]/DisposableClass.js:30:28)\n    at [PATH]/DisposableClass.js:106:29\n    at Array.forEach (<anonymous>)\n    at Fl.dispose [PATH]/DisposableClass.js:98:30)\n    at Object.dispose [PATH]/resolver.ts:37:22)\n    at k [PATH]/extensionHostProcess.js:13:11730)\n    at n.Z [PATH]/extensionHostProcess.js:119:9652)\n    at [PATH]/extensionHostProcess.js:119:7585\n    at Array.map (<anonymous>)\n    at n.S [PATH]/extensionHostProcess.js:119:7572)\n    at n.terminate [PATH]/extensionHostProcess.js:119:7844)\n    at o.terminate [PATH]/extensionHostProcess.js:123:1513)\n    at D [PATH]/extensionHostProcess.js:136:9800)\n    at n.value [PATH]/extensionHostProcess.js:136:7847)\n    at m.w [PATH]/extensionHostProcess.js:63:1902)\n    at m.fire [PATH]/extensionHostProcess.js:63:2119)\n    at v.fire [PATH]/extensionHostProcess.js:79:13940)\n    at s.z [PATH]/extensionHostProcess.js:79:17005)\n    at n.value [PATH]/extensionHostProcess.js:79:15457)\n    at m.w [PATH]/extensionHostProcess.js:63:1902)\n    at m.fire [PATH]/extensionHostProcess.js:63:2119)\n    at n.acceptChunk [PATH]/extensionHostProcess.js:79:11714)\n    at [PATH]/extensionHostProcess.js:79:11001\n    at Socket.p [PATH]/extensionHostProcess.js:133:12793)\n    at Socket.emit (node:events:513:28)\n    at addChunk [PATH]/readable:324:12)\n    at readableAddChunk [PATH]/readable:297:9)\n    at Socket.Readable.push [PATH]/readable:234:10)\n    at TCP.onStreamRead [PATH]/stream_base_commons:190:23)"
+} $1', disposing 14 objects
+[Client:extension:344b:liveshare-joint:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare-joint:liveshare:delayed-disposable V] Disposing reason:connection record disposed by ConnectionHub: {
+  "errorMessage": "Disposing normally: vscode disposed the resolver $2",
+  "originalErrorType": "<no original type>",
+  "errorCode": -1,
+  "errorType": "ConnectionCancellationError",
+  "stack": "Error: Disposing normally: vscode disposed the resolver $2\n    at k.dispose [PATH]/Connection.js:120:57)\n    at k.dispose [PATH]/VSCodeConnection.js:458:26)\n    at Fl.disposeObject [PATH]/DisposableClass.js:30:28)\n    at [PATH]/DisposableClass.js:106:29\n    at Array.forEach (<anonymous>)\n    at Fl.dispose [PATH]/DisposableClass.js:98:30)\n    at Object.dispose [PATH]/resolver.ts:37:22)\n    at k [PATH]/extensionHostProcess.js:13:11730)\n    at n.Z [PATH]/extensionHostProcess.js:119:9652)\n    at [PATH]/extensionHostProcess.js:119:7585\n    at Array.map (<anonymous>)\n    at n.S [PATH]/extensionHostProcess.js:119:7572)\n    at n.terminate [PATH]/extensionHostProcess.js:119:7844)\n    at o.terminate [PATH]/extensionHostProcess.js:123:1513)\n    at D [PATH]/extensionHostProcess.js:136:9800)\n    at n.value [PATH]/extensionHostProcess.js:136:7847)\n    at m.w [PATH]/extensionHostProcess.js:63:1902)\n    at m.fire [PATH]/extensionHostProcess.js:63:2119)\n    at v.fire [PATH]/extensionHostProcess.js:79:13940)\n    at s.z [PATH]/extensionHostProcess.js:79:17005)\n    at n.value [PATH]/extensionHostProcess.js:79:15457)\n    at m.w [PATH]/extensionHostProcess.js:63:1902)\n    at m.fire [PATH]/extensionHostProcess.js:63:2119)\n    at n.acceptChunk [PATH]/extensionHostProcess.js:79:11714)\n    at [PATH]/extensionHostProcess.js:79:11001\n    at Socket.p [PATH]/extensionHostProcess.js:133:12793)\n    at Socket.emit (node:events:513:28)\n    at addChunk [PATH]/readable:324:12)\n    at readableAddChunk [PATH]/readable:297:9)\n    at Socket.Readable.push [PATH]/readable:234:10)\n    at TCP.onStreamRead [PATH]/stream_base_commons:190:23)"
+} $1 $3
+[Client:extension:344b:resolver:resolve:1:background-tasks:post-attach-command-manager V] disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Disposing normally: vscode disposed the resolver $2",
+  "originalErrorType": "<no original type>",
+  "errorCode": -1,
+  "errorType": "ConnectionCancellationError",
+  "stack": "Error: Disposing normally: vscode disposed the resolver $2\n    at k.dispose [PATH]/Connection.js:120:57)\n    at k.dispose [PATH]/VSCodeConnection.js:458:26)\n    at Fl.disposeObject [PATH]/DisposableClass.js:30:28)\n    at [PATH]/DisposableClass.js:106:29\n    at Array.forEach (<anonymous>)\n    at Fl.dispose [PATH]/DisposableClass.js:98:30)\n    at Object.dispose [PATH]/resolver.ts:37:22)\n    at k [PATH]/extensionHostProcess.js:13:11730)\n    at n.Z [PATH]/extensionHostProcess.js:119:9652)\n    at [PATH]/extensionHostProcess.js:119:7585\n    at Array.map (<anonymous>)\n    at n.S [PATH]/extensionHostProcess.js:119:7572)\n    at n.terminate [PATH]/extensionHostProcess.js:119:7844)\n    at o.terminate [PATH]/extensionHostProcess.js:123:1513)\n    at D [PATH]/extensionHostProcess.js:136:9800)\n    at n.value [PATH]/extensionHostProcess.js:136:7847)\n    at m.w [PATH]/extensionHostProcess.js:63:1902)\n    at m.fire [PATH]/extensionHostProcess.js:63:2119)\n    at v.fire [PATH]/extensionHostProcess.js:79:13940)\n    at s.z [PATH]/extensionHostProcess.js:79:17005)\n    at n.value [PATH]/extensionHostProcess.js:79:15457)\n    at m.w [PATH]/extensionHostProcess.js:63:1902)\n    at m.fire [PATH]/extensionHostProcess.js:63:2119)\n    at n.acceptChunk [PATH]/extensionHostProcess.js:79:11714)\n    at [PATH]/extensionHostProcess.js:79:11001\n    at Socket.p [PATH]/extensionHostProcess.js:133:12793)\n    at Socket.emit (node:events:513:28)\n    at addChunk [PATH]/readable:324:12)\n    at readableAddChunk [PATH]/readable:297:9)\n    at Socket.Readable.push [PATH]/readable:234:10)\n    at TCP.onStreamRead [PATH]/stream_base_commons:190:23)"
+} $1 $7', disposing 1 objects
+[Client:extension:344b:resolver:resolve:1:background-tasks:post-attach-command-manager:delayed-disposable V] Disposing reason:undefined
+[ResourceUsage I] Connection disposed, stopping monitor
+[ResourceUsage I] Stopping polling
+[Performance I] Connection disposed, stopping monitor
+[Performance I] Stopping polling
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode:delayed-disposable V] Disposing reason:undefined
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode:delayed-disposable V] Disposing reason:undefined
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode:delayed-disposable V] Disposing reason:undefined
+[Client:extension:344b:resolver:resolve:1:connection:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d:vscode:delayed-disposable V] Disposing reason:undefined
+[Client:extension:344b:vscode:connection-record:delayed-disposable V] Disposing reason:undefined
+[Client:extension:344b:vscode:onConnectionChanged:FED03E4A05648376FC64B14D98E5AA2AEB12_7643987b-0ac5-4451-933f-97f429588ba8_stable_abd2f3db4bdb28f9e95536dfa84d8479f1eb312d I] not reconnecting
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'started'
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] checking ssh connection
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Sending #20 SessionRequestMessage (requestType=ping-check-connection)
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] Receiving #21 SessionRequestFailureMessage
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient:1 V] checkConnectionWithTimeout -> 'succeeded' t:3.0
+[Client:extension:344b:liveshare:connection:FED03E4A05648376FC64B14D98E5AA2AEB12:liveshare:WorkspaceClient V] > serverSharing.sharingSucceeded: 

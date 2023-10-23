@@ -1,0 +1,108 @@
+2023-10-23 12:09:50.213 [info] Эксперимент «pythonPromptNewFormatterExt» активен
+2023-10-23 12:09:50.213 [info] Эксперимент «pythonPromptNewToolsExt» активен
+2023-10-23 12:09:50.213 [info] Эксперимент «pythonTerminalEnvVarActivationcf» активен
+2023-10-23 12:09:50.213 [info] Эксперимент «pythonTestAdaptercf» активен
+2023-10-23 12:09:50.837 [info] Test server listening.
+2023-10-23 12:09:50.898 [info] > conda info --json
+2023-10-23 12:09:50.950 [info] Found: /bin/python3 --> /bin/python3.10
+2023-10-23 12:09:50.953 [info] Found: /bin/python3.10 --> /bin/python3.10
+2023-10-23 12:09:51.062 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2023-10-23 12:09:51.062 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2023-10-23 12:09:51.095 [info] > ./.venv/bin/python -I ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-23 12:09:51.147 [info] Found: /usr/local/bin/python --> /usr/local/bin/python3.11
+2023-10-23 12:09:51.147 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.11
+2023-10-23 12:09:51.147 [info] Found: /usr/local/bin/python3.11 --> /usr/local/bin/python3.11
+2023-10-23 12:09:51.233 [info] > /bin/python3 -I ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-23 12:09:51.298 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-23 12:09:51.298 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-23 12:09:51.298 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-23 12:09:51.298 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-23 12:09:51.298 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-23 12:09:51.298 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-23 12:09:51.298 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-23 12:09:52.524 [info] > /usr/bin/python3 -I ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-23 12:09:52.554 [info] > /usr/local/bin/python -I ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-remote/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-23 12:09:52.630 [info] Путь к интерпретатору Python: ./.venv/bin/python
+2023-10-23 12:09:53.241 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-23 12:09:53.241 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-23 12:09:54.897 [info] Запуск языкового сервера Pylance.
+2023-10-23 12:11:43.416 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:11:46.799 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:11:54.795 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:12:01.629 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:12:03.919 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:12:07.303 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:12:08.770 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:12:13.743 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:12:16.467 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:12:19.884 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:12:25.574 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:12:29.955 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:12:32.922 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:12:35.692 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:12:42.016 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:12:43.558 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:12:51.918 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:12:54.209 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:12:56.740 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:12:59.019 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:13:02.614 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:13:07.732 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:13:12.032 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:13:15.879 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:13:18.088 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:13:24.225 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:13:27.251 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:13:30.292 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:13:31.974 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:13:53.310 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:13:54.904 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:13:57.725 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:14:00.316 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:14:03.548 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:14:04.933 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:14:07.337 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:14:11.802 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:14:14.139 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:14:17.238 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:14:20.291 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:14:22.201 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:14:23.810 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:14:44.369 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:14:54.689 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:15:11.774 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:15:13.730 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:15:16.933 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:15:18.245 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:15:24.168 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:15:26.027 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:15:28.694 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:15:33.264 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:15:41.661 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:15:43.041 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:15:44.276 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:15:51.235 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:15:57.200 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:16:03.080 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:16:08.613 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:16:12.265 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:16:17.218 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:16:21.798 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:16:26.580 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:16:29.240 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:16:32.533 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:16:35.574 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:16:38.169 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:16:45.838 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:16:49.061 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:16:51.325 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/fuel/fuel.py
+2023-10-23 12:19:45.916 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/camel/camel.py
+2023-10-23 12:19:47.421 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/camel/camel.py
+2023-10-23 12:19:52.412 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/camel/camel.py
+2023-10-23 12:22:13.862 [info] CreateEnv Trigger - Skipping for /workspaces/143985177/coffee/coffee.py
+2023-10-23 12:22:13.863 [info] Send text to terminal: source /workspaces/143985177/.venv/bin/activate
+2023-10-23 12:22:14.364 [info] Send text to terminal: cd /workspaces/143985177/coffee
+2023-10-23 12:22:14.365 [info] Send text to terminal: /workspaces/143985177/.venv/bin/python /workspaces/143985177/coffee/coffee.py
+2023-10-23 12:22:15.788 [info] Send text to terminal: cd /workspaces/143985177/coffee
+2023-10-23 12:22:15.789 [info] Send text to terminal: /workspaces/143985177/.venv/bin/python /workspaces/143985177/coffee/coffee.py
+2023-10-23 12:22:27.890 [info] Discover tests for workspace name: 143985177 - uri: /workspaces/143985177/coffee/coffee.py

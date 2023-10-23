@@ -1,0 +1,5 @@
+2023-10-01 21:36:55.975 [info] Extension host with pid 13000 started
+2023-10-01 21:36:56.007 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/4fcc469b/vscode.lock': Lock acquired.
+2023-10-01 22:51:27.593 [info] Extension host terminating: renderer disconnected for too long (2)
+2023-10-01 22:51:27.594 [info] Lock '/home/ubuntu/.vscode-remote/data/User/workspaceStorage/4fcc469b/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-10-01 22:51:27.596 [info] Extension host with pid 13000 exiting with code 0

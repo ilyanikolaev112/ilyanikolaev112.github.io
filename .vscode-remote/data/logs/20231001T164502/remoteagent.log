@@ -1,0 +1,553 @@
+2023-10-01 16:45:02.044 [trace] Remote configuration data at /home/ubuntu/.vscode-remote
+2023-10-01 16:45:02.044 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/ubuntu/.vscode-remote/data/Machine/.connection-token-abd2f3db4bdb28f9e95536dfa84d8479f1eb312d","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/ubuntu/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/ubuntu/.vscode-remote/extensionsCache","install-extension":["ms-azuretools.vscode-docker","/opt/cs50/extensions/explain50-1.0.0.vsix","/opt/cs50/extensions/cs50-0.0.1.vsix","/opt/cs50/extensions/ddb50-2.0.0.vsix","/opt/cs50/extensions/phpliteadmin-0.0.1.vsix","/opt/cs50/extensions/style50-0.0.1.vsix","cs50.extension-uninstaller","inferrinizzard.prettier-sql-vscode","mathematic.vscode-pdf","ms-ceintl.vscode-language-pack-bg","ms-ceintl.vscode-language-pack-cs","ms-ceintl.vscode-language-pack-de","ms-ceintl.vscode-language-pack-es","ms-ceintl.vscode-language-pack-fr","ms-ceintl.vscode-language-pack-hu","ms-ceintl.vscode-language-pack-it","ms-ceintl.vscode-language-pack-ja","ms-ceintl.vscode-language-pack-ko","ms-ceintl.vscode-language-pack-pl","ms-ceintl.vscode-language-pack-pt-br","ms-ceintl.vscode-language-pack-ru","ms-ceintl.vscode-language-pack-zh-hans","ms-ceintl.vscode-language-pack-zh-hant","ms-python.python","ms-vscode.cpptools","ms-vscode.hexeditor","ms-vsliveshare.vsliveshare","redhat.java","vscjava.vscode-java-debug","vsls-contrib.gitdoc"],"install-builtin-extension":["GitHub.vscode-pull-request-github","github.github-vscode-theme","github.codespaces"],"list-extensions":false,"show-versions":false,"force":false,"do-not-sync":true,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/ubuntu/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/extensions","extensions-dir":"/home/ubuntu/.vscode-remote/extensions","logsPath":"/home/ubuntu/.vscode-remote/data/logs/20231001T164502"}
+2023-10-01 16:45:02.044 [info] 
+
+
+
+
+2023-10-01 16:45:02.044 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/data/Machine (excludes: <none>, includes: <all>),/home/ubuntu/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>)
+2023-10-01 16:45:02.059 [trace] Installing builtin extensions passed via args...
+2023-10-01 16:45:02.062 [trace] Started scanning user extensions {"$mid":1,"external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-01 16:45:02.063 [trace] Installing extensions passed via args...
+2023-10-01 16:45:02.082 [info] Extension host agent started.
+2023-10-01 16:45:02.166 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/data/Machine'
+2023-10-01 16:45:02.171 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/extensions (excludes: <none>, includes: <all>)
+2023-10-01 16:45:02.177 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/data/Machine/settings.json'
+2023-10-01 16:45:02.179 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-remote/extensions
+2023-10-01 16:45:02.179 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions","external":"file:///home/ubuntu/.vscode-remote/extensions","path":"/home/ubuntu/.vscode-remote/extensions","scheme":"file"}
+2023-10-01 16:45:02.192 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/redhat.java-1.23.0-linux-x64
+2023-10-01 16:45:02.193 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/github.vscode-pull-request-github-0.73.2023092907
+2023-10-01 16:45:02.193 [trace] Deleting from cache /home/ubuntu/.vscode-remote/extensionsCache/ms-python.python-2023.17.12721006
+2023-10-01 16:45:02.195 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/extensions'
+2023-10-01 16:45:02.199 [debug] ComputeTargetPlatform: linux-x64
+2023-10-01 16:45:02.199 [trace] Scanned user extensions: 0
+2023-10-01 16:45:02.201 [trace] [File Watcher (node.js)] [raw] ["rename"] extensions.json
+2023-10-01 16:45:02.201 [trace] [File Watcher (node.js)] [raw] ["change"] extensions.json
+2023-10-01 16:45:02.201 [trace] [File Watcher (node.js)] [ADDED] /home/ubuntu/.vscode-remote/extensions/extensions.json
+2023-10-01 16:45:02.232 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-remote/extensions
+2023-10-01 16:45:02.234 [trace] [File Watcher (node.js)] Request to start watching: /home/ubuntu/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>)
+2023-10-01 16:45:02.235 [trace] Scanned user extensions: 0
+2023-10-01 16:45:02.237 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions","external":"file:///home/ubuntu/.vscode-remote/extensions","path":"/home/ubuntu/.vscode-remote/extensions","scheme":"file"}
+2023-10-01 16:45:02.239 [debug] ComputeTargetPlatform: linux-x64
+2023-10-01 16:45:02.241 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-01 16:45:02.289 [trace] [File Watcher (node.js)] Started watching: '/home/ubuntu/.vscode-remote/extensions/extensions.json'
+2023-10-01 16:45:02.290 [trace] [File Watcher (node.js)] >> normalized [ADDED] /home/ubuntu/.vscode-remote/extensions/extensions.json
+2023-10-01 16:45:02.294 [trace] Scanned user extensions: 0
+2023-10-01 16:45:02.303 [trace] [File Watcher (node.js)] [CHANGED] /home/ubuntu/.vscode-remote/extensions/extensions.json
+2023-10-01 16:45:02.378 [trace] [File Watcher (node.js)] >> normalized [CHANGED] /home/ubuntu/.vscode-remote/extensions/extensions.json
+2023-10-01 16:45:02.628 [info] [127.0.0.1][093646c9][ManagementConnection] New connection established.
+2023-10-01 16:45:02.632 [trace] [127.0.0.1][3f237176][ExtensionHostConnection] - startParams language: ru
+2023-10-01 16:45:02.632 [trace] [127.0.0.1][3f237176][ExtensionHostConnection] - startParams env: {}
+2023-10-01 16:45:02.635 [info] [127.0.0.1][3f237176][ExtensionHostConnection] New connection established.
+2023-10-01 16:45:02.638 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-01 16:45:02.650 [info] [127.0.0.1][3f237176][ExtensionHostConnection] <487> Launched Extension Host Process.
+2023-10-01 16:45:02.828 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-01 16:45:02.989 [trace] Started scanning system extensions
+2023-10-01 16:45:02.989 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-01 16:45:02.990 [trace] ExtensionManagementService.refreshReportedCache
+2023-10-01 16:45:02.990 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-01 16:45:02.991 [trace] Started scanning system extensions
+2023-10-01 16:45:02.991 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-01 16:45:02.992 [trace] Started scanning system extensions
+2023-10-01 16:45:02.992 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/ubuntu/.vscode-remote/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-remote/extensions/extensions.json","path":"/home/ubuntu/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-01 16:45:02.993 [trace] Scanning extensions using UI language: ru
+2023-10-01 16:45:02.994 [info] Log level changed to info
+2023-10-01 16:45:03.326 [info] Installing builtin extension 'github.vscode-pull-request-github'...
+2023-10-01 16:45:03.327 [info] Getting Manifest... github.vscode-pull-request-github
+2023-10-01 16:45:03.330 [info] Installing builtin extension 'github.github-vscode-theme'...
+2023-10-01 16:45:03.330 [info] Getting Manifest... github.github-vscode-theme
+2023-10-01 16:45:03.334 [info] Installing builtin extension 'github.codespaces'...
+2023-10-01 16:45:03.334 [info] Getting Manifest... github.codespaces
+2023-10-01 16:45:03.379 [info] Installing extension: github.codespaces
+2023-10-01 16:45:03.381 [info] Installing extension: github.github-vscode-theme
+2023-10-01 16:45:03.384 [info] Installing extension: github.vscode-pull-request-github
+2023-10-01 16:45:03.883 [warning] Extension signature verification failed with error 'ENOENT': github.github-vscode-theme
+2023-10-01 16:45:03.885 [warning] Extension signature verification failed with error 'ENOENT': github.codespaces
+2023-10-01 16:45:04.004 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/github.github-vscode-theme-6.3.4: github.github-vscode-theme
+2023-10-01 16:45:04.026 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/github.github-vscode-theme-6.3.4
+2023-10-01 16:45:04.029 [info] Extracting extension completed. github.github-vscode-theme
+2023-10-01 16:45:04.050 [info] Extension installed successfully: github.github-vscode-theme
+2023-10-01 16:45:04.051 [info] Extension 'github.github-vscode-theme' v6.3.4 was successfully installed.
+2023-10-01 16:45:04.116 [warning] Extension signature verification failed with error 'ENOENT': github.vscode-pull-request-github
+2023-10-01 16:45:04.404 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.72.0: github.vscode-pull-request-github
+2023-10-01 16:45:04.429 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/github.vscode-pull-request-github-0.72.0
+2023-10-01 16:45:04.433 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-10-01 16:45:04.452 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/github.codespaces-1.15.4: github.codespaces
+2023-10-01 16:45:04.454 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-10-01 16:45:04.456 [info] Extension 'github.vscode-pull-request-github' v0.72.0 was successfully installed.
+2023-10-01 16:45:04.480 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/github.codespaces-1.15.4
+2023-10-01 16:45:04.482 [info] Extracting extension completed. github.codespaces
+2023-10-01 16:45:04.505 [info] Extension installed successfully: github.codespaces
+2023-10-01 16:45:04.506 [info] Extension 'github.codespaces' v1.15.4 was successfully installed.
+2023-10-01 16:45:04.506 [info] Installing extensions...
+2023-10-01 16:45:04.522 [info] Installing extension: cs50.style50
+2023-10-01 16:45:04.524 [info] Installing extension: cs50.explain50
+2023-10-01 16:45:04.524 [info] Installing extension: cs50.ddb50
+2023-10-01 16:45:04.530 [info] Installing extensions...
+2023-10-01 16:45:04.540 [info] Installing extension: cs50.phpliteadmin
+2023-10-01 16:45:04.694 [info] Installing extension: cs50.cs50
+2023-10-01 16:45:04.931 [info] Installing extension 'ms-ceintl.vscode-language-pack-ru'...
+2023-10-01 16:45:04.977 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/cs50.phpliteadmin-0.0.1: cs50.phpliteadmin
+2023-10-01 16:45:05.002 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/cs50.phpliteadmin-0.0.1
+2023-10-01 16:45:05.007 [info] Extracting extension completed. cs50.phpliteadmin
+2023-10-01 16:45:05.030 [info] Extension installed successfully: cs50.phpliteadmin
+2023-10-01 16:45:05.031 [info] Extension 'phpliteadmin-0.0.1.vsix' was successfully installed.
+2023-10-01 16:45:05.579 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ru
+2023-10-01 16:45:05.594 [info] Installing extension: ms-ceintl.vscode-language-pack-ru
+2023-10-01 16:45:05.800 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/cs50.cs50-0.0.1: cs50.cs50
+2023-10-01 16:45:05.831 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/cs50.cs50-0.0.1
+2023-10-01 16:45:05.836 [info] Extracting extension completed. cs50.cs50
+2023-10-01 16:45:05.863 [info] Extension installed successfully: cs50.cs50
+2023-10-01 16:45:05.864 [info] Extension 'cs50-0.0.1.vsix' was successfully installed.
+2023-10-01 16:45:05.893 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-ru
+2023-10-01 16:45:06.204 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.82.2023091309: ms-ceintl.vscode-language-pack-ru
+2023-10-01 16:45:06.229 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ru-1.82.2023091309
+2023-10-01 16:45:06.232 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ru
+2023-10-01 16:45:06.252 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ru
+2023-10-01 16:45:06.310 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ru
+2023-10-01 16:45:06.311 [info] Extension 'ms-ceintl.vscode-language-pack-ru' v1.82.2023091309 was successfully installed.
+2023-10-01 16:45:07.820 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/cs50.ddb50-2.0.0: cs50.ddb50
+2023-10-01 16:45:07.859 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/cs50.ddb50-2.0.0
+2023-10-01 16:45:07.862 [info] Extracting extension completed. cs50.ddb50
+2023-10-01 16:45:07.887 [info] Extension installed successfully: cs50.ddb50
+2023-10-01 16:45:07.888 [info] Extension 'ddb50-2.0.0.vsix' was successfully installed.
+2023-10-01 16:45:08.271 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/cs50.style50-0.0.1: cs50.style50
+2023-10-01 16:45:08.473 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/cs50.style50-0.0.1
+2023-10-01 16:45:08.476 [info] Extracting extension completed. cs50.style50
+2023-10-01 16:45:08.544 [info] Extension installed successfully: cs50.style50
+2023-10-01 16:45:08.546 [info] Extension 'style50-0.0.1.vsix' was successfully installed.
+2023-10-01 16:45:09.357 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/cs50.explain50-1.0.0: cs50.explain50
+2023-10-01 16:45:09.839 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/cs50.explain50-1.0.0
+2023-10-01 16:45:09.841 [info] Extracting extension completed. cs50.explain50
+2023-10-01 16:45:09.871 [info] Extension installed successfully: cs50.explain50
+2023-10-01 16:45:09.872 [info] Extension 'explain50-1.0.0.vsix' was successfully installed.
+2023-10-01 16:45:10.810 [info] Installing extension 'cs50.extension-uninstaller'...
+2023-10-01 16:45:10.810 [info] Getting Manifest... cs50.extension-uninstaller
+2023-10-01 16:45:10.835 [info] Installing extension 'mathematic.vscode-pdf'...
+2023-10-01 16:45:10.836 [info] Getting Manifest... mathematic.vscode-pdf
+2023-10-01 16:45:10.838 [info] Installing extension 'ms-ceintl.vscode-language-pack-cs'...
+2023-10-01 16:45:10.841 [info] Installing extension 'ms-ceintl.vscode-language-pack-de'...
+2023-10-01 16:45:10.843 [info] Installing extension 'ms-ceintl.vscode-language-pack-hu'...
+2023-10-01 16:45:10.843 [info] Getting Manifest... ms-ceintl.vscode-language-pack-hu
+2023-10-01 16:45:10.846 [info] Installing extension 'ms-ceintl.vscode-language-pack-ja'...
+2023-10-01 16:45:10.850 [info] Installing extension 'ms-ceintl.vscode-language-pack-ko'...
+2023-10-01 16:45:10.855 [info] Installing extension 'ms-ceintl.vscode-language-pack-it'...
+2023-10-01 16:45:10.857 [info] Installing extension 'ms-ceintl.vscode-language-pack-es'...
+2023-10-01 16:45:10.859 [info] Installing extension 'ms-ceintl.vscode-language-pack-pl'...
+2023-10-01 16:45:10.866 [info] Installing extension 'inferrinizzard.prettier-sql-vscode'...
+2023-10-01 16:45:10.866 [info] Getting Manifest... inferrinizzard.prettier-sql-vscode
+2023-10-01 16:45:10.868 [info] Installing extension 'ms-ceintl.vscode-language-pack-bg'...
+2023-10-01 16:45:10.868 [info] Getting Manifest... ms-ceintl.vscode-language-pack-bg
+2023-10-01 16:45:10.886 [info] Installing extension 'ms-vscode.hexeditor'...
+2023-10-01 16:45:10.887 [info] Getting Manifest... ms-vscode.hexeditor
+2023-10-01 16:45:10.889 [info] Installing extension 'ms-ceintl.vscode-language-pack-ru'...
+2023-10-01 16:45:10.891 [info] Installing extension 'vsls-contrib.gitdoc'...
+2023-10-01 16:45:10.891 [info] Getting Manifest... vsls-contrib.gitdoc
+2023-10-01 16:45:10.893 [info] Installing extension 'ms-ceintl.vscode-language-pack-pt-br'...
+2023-10-01 16:45:10.895 [info] Installing extension 'ms-ceintl.vscode-language-pack-zh-hant'...
+2023-10-01 16:45:10.897 [info] Installing extension 'vscjava.vscode-java-debug'...
+2023-10-01 16:45:10.898 [info] Getting Manifest... vscjava.vscode-java-debug
+2023-10-01 16:45:10.899 [info] Installing extension 'ms-ceintl.vscode-language-pack-fr'...
+2023-10-01 16:45:10.905 [info] Installing extension 'redhat.java'...
+2023-10-01 16:45:10.905 [info] Getting Manifest... redhat.java
+2023-10-01 16:45:10.908 [info] Installing extension 'ms-python.python'...
+2023-10-01 16:45:10.909 [info] Getting Manifest... ms-python.python
+2023-10-01 16:45:10.911 [info] Installing extension 'ms-vsliveshare.vsliveshare'...
+2023-10-01 16:45:10.911 [info] Getting Manifest... ms-vsliveshare.vsliveshare
+2023-10-01 16:45:10.914 [info] Installing extension 'ms-azuretools.vscode-docker'...
+2023-10-01 16:45:10.914 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-10-01 16:45:10.917 [info] Installing extension 'ms-ceintl.vscode-language-pack-zh-hans'...
+2023-10-01 16:45:10.945 [info] Installing extension: cs50.extension-uninstaller
+2023-10-01 16:45:10.946 [info] Installing extension: inferrinizzard.prettier-sql-vscode
+2023-10-01 16:45:10.949 [info] Installing extension 'ms-vscode.cpptools'...
+2023-10-01 16:45:10.949 [info] Getting Manifest... ms-vscode.cpptools
+2023-10-01 16:45:10.973 [info] Installing extension: ms-vscode.hexeditor
+2023-10-01 16:45:10.974 [info] Installing extension: vsls-contrib.gitdoc
+2023-10-01 16:45:10.975 [info] Installing extension: mathematic.vscode-pdf
+2023-10-01 16:45:10.976 [info] Installing extension: ms-ceintl.vscode-language-pack-hu
+2023-10-01 16:45:10.985 [info] Installing extension: ms-ceintl.vscode-language-pack-bg
+2023-10-01 16:45:10.991 [info] Installing extension: vscjava.vscode-java-debug
+2023-10-01 16:45:10.998 [info] Installing extension: redhat.java
+2023-10-01 16:45:10.999 [info] Installing extension: ms-vsliveshare.vsliveshare
+2023-10-01 16:45:11.000 [info] Installing extension: ms-python.python
+2023-10-01 16:45:11.003 [info] Installing extension: ms-azuretools.vscode-docker
+2023-10-01 16:45:11.065 [info] Installing extension: ms-vscode.cpptools
+2023-10-01 16:45:11.638 [info] Getting Manifest... ms-ceintl.vscode-language-pack-pl
+2023-10-01 16:45:11.652 [info] Getting Manifest... ms-ceintl.vscode-language-pack-cs
+2023-10-01 16:45:11.741 [info] Installing extension: ms-ceintl.vscode-language-pack-pl
+2023-10-01 16:45:11.768 [info] Installing extension: ms-ceintl.vscode-language-pack-cs
+2023-10-01 16:45:11.839 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-10-01 16:45:11.845 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ko
+2023-10-01 16:45:11.850 [info] Getting Manifest... ms-ceintl.vscode-language-pack-fr
+2023-10-01 16:45:11.871 [info] Getting Manifest... ms-ceintl.vscode-language-pack-de
+2023-10-01 16:45:11.895 [info] Getting Manifest... ms-ceintl.vscode-language-pack-it
+2023-10-01 16:45:11.900 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2023-10-01 16:45:11.923 [info] Getting Manifest... ms-ceintl.vscode-language-pack-pt-br
+2023-10-01 16:45:11.940 [info] Getting Manifest... ms-ceintl.vscode-language-pack-zh-hant
+2023-10-01 16:45:11.979 [info] Installing extension: ms-ceintl.vscode-language-pack-de
+2023-10-01 16:45:11.980 [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+2023-10-01 16:45:11.981 [info] Installing extension: ms-ceintl.vscode-language-pack-ko
+2023-10-01 16:45:11.992 [info] Installing extension: ms-ceintl.vscode-language-pack-it
+2023-10-01 16:45:11.993 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2023-10-01 16:45:11.994 [info] Installing extension: ms-ceintl.vscode-language-pack-fr
+2023-10-01 16:45:12.018 [info] Installing extension: ms-ceintl.vscode-language-pack-pt-br
+2023-10-01 16:45:12.040 [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hant
+2023-10-01 16:45:12.267 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ru
+2023-10-01 16:45:12.322 [info] Getting Manifest... ms-ceintl.vscode-language-pack-zh-hans
+2023-10-01 16:45:12.381 [info] Installing extension: ms-ceintl.vscode-language-pack-ru
+2023-10-01 16:45:12.413 [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hans
+2023-10-01 16:45:12.874 [info] Getting Manifest... ms-python.vscode-pylance
+2023-10-01 16:45:13.469 [warning] Extension signature verification failed with error 'ENOENT': cs50.extension-uninstaller
+2023-10-01 16:45:13.721 [warning] Extension signature verification failed with error 'ENOENT': ms-vscode.hexeditor
+2023-10-01 16:45:13.833 [warning] Extension signature verification failed with error 'ENOENT': vsls-contrib.gitdoc
+2023-10-01 16:45:13.844 [warning] Extension signature verification failed with error 'ENOENT': mathematic.vscode-pdf
+2023-10-01 16:45:13.958 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-hu
+2023-10-01 16:45:13.970 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-10-01 16:45:13.977 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-bg
+2023-10-01 16:45:14.095 [warning] Extension signature verification failed with error 'ENOENT': inferrinizzard.prettier-sql-vscode
+2023-10-01 16:45:14.152 [warning] Extension signature verification failed with error 'ENOENT': vscjava.vscode-java-debug
+2023-10-01 16:45:14.287 [warning] Extension signature verification failed with error 'ENOENT': ms-vsliveshare.vsliveshare
+2023-10-01 16:45:14.439 [warning] Extension signature verification failed with error 'ENOENT': ms-azuretools.vscode-docker
+2023-10-01 16:45:15.495 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-pl
+2023-10-01 16:45:15.520 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-de
+2023-10-01 16:45:15.525 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-ja
+2023-10-01 16:45:15.525 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-cs
+2023-10-01 16:45:15.610 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/cs50.extension-uninstaller-1.0.7: cs50.extension-uninstaller
+2023-10-01 16:45:15.704 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ru
+2023-10-01 16:45:15.708 [warning] Extension signature verification failed with error 'ENOENT': ms-vscode.cpptools
+2023-10-01 16:45:15.708 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-it
+2023-10-01 16:45:15.709 [warning] Extension signature verification failed with error 'ENOENT': redhat.java
+2023-10-01 16:45:15.717 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-ko
+2023-10-01 16:45:15.773 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-fr
+2023-10-01 16:45:15.825 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-pt-br
+2023-10-01 16:45:15.829 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-zh-hant
+2023-10-01 16:45:15.832 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-zh-hans
+2023-10-01 16:45:15.832 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-es
+2023-10-01 16:45:15.833 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/cs50.extension-uninstaller-1.0.7
+2023-10-01 16:45:15.872 [info] Extracting extension completed. cs50.extension-uninstaller
+2023-10-01 16:45:15.880 [warning] Extension signature verification failed with error 'ENOENT': ms-python.python
+2023-10-01 16:45:15.907 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ru
+2023-10-01 16:45:15.908 [info] Extension 'ms-ceintl.vscode-language-pack-ru' v1.82.2023091309 was successfully installed.
+2023-10-01 16:45:15.923 [info] Extension installed successfully: cs50.extension-uninstaller
+2023-10-01 16:45:15.924 [info] Extension 'cs50.extension-uninstaller' v1.0.7 was successfully installed.
+2023-10-01 16:45:16.261 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-vscode.hexeditor-1.9.12: ms-vscode.hexeditor
+2023-10-01 16:45:16.309 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-vscode.hexeditor-1.9.12
+2023-10-01 16:45:16.332 [info] Extracting extension completed. ms-vscode.hexeditor
+2023-10-01 16:45:16.371 [info] Extension installed successfully: ms-vscode.hexeditor
+2023-10-01 16:45:16.372 [info] Extension 'ms-vscode.hexeditor' v1.9.12 was successfully installed.
+2023-10-01 16:45:16.820 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/vscjava.vscode-java-debug-0.54.0: vscjava.vscode-java-debug
+2023-10-01 16:45:16.861 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/vscjava.vscode-java-debug-0.54.0
+2023-10-01 16:45:16.881 [info] Extracting extension completed. vscjava.vscode-java-debug
+2023-10-01 16:45:16.920 [info] Extension installed successfully: vscjava.vscode-java-debug
+2023-10-01 16:45:16.922 [info] Extension 'vscjava.vscode-java-debug' v0.54.0 was successfully installed.
+2023-10-01 16:45:16.999 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-hu-1.48.3: ms-ceintl.vscode-language-pack-hu
+2023-10-01 16:45:17.018 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-bg-1.48.3: ms-ceintl.vscode-language-pack-bg
+2023-10-01 16:45:17.035 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-hu-1.48.3
+2023-10-01 16:45:17.048 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-hu
+2023-10-01 16:45:17.049 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-bg-1.48.3
+2023-10-01 16:45:17.063 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-bg
+2023-10-01 16:45:17.090 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-hu
+2023-10-01 16:45:17.164 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/vsls-contrib.gitdoc-0.1.0: vsls-contrib.gitdoc
+2023-10-01 16:45:17.166 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-bg
+2023-10-01 16:45:17.180 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-hu
+2023-10-01 16:45:17.181 [info] Extension 'ms-ceintl.vscode-language-pack-hu' v1.48.3 was successfully installed.
+2023-10-01 16:45:17.210 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/vsls-contrib.gitdoc-0.1.0
+2023-10-01 16:45:17.235 [info] Extracting extension completed. vsls-contrib.gitdoc
+2023-10-01 16:45:17.273 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-bg
+2023-10-01 16:45:17.274 [info] Extension 'ms-ceintl.vscode-language-pack-bg' v1.48.3 was successfully installed.
+2023-10-01 16:45:17.289 [info] Extension installed successfully: vsls-contrib.gitdoc
+2023-10-01 16:45:17.290 [info] Extension 'vsls-contrib.gitdoc' v0.1.0 was successfully installed.
+2023-10-01 16:45:17.329 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pl-1.82.2023091309: ms-ceintl.vscode-language-pack-pl
+2023-10-01 16:45:17.336 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-de-1.82.2023091309: ms-ceintl.vscode-language-pack-de
+2023-10-01 16:45:17.339 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-cs-1.82.2023091309: ms-ceintl.vscode-language-pack-cs
+2023-10-01 16:45:17.355 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.82.2023091309: ms-ceintl.vscode-language-pack-ja
+2023-10-01 16:45:17.366 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-it-1.82.2023091309: ms-ceintl.vscode-language-pack-it
+2023-10-01 16:45:17.368 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.82.2023091309: ms-ceintl.vscode-language-pack-zh-hant
+2023-10-01 16:45:17.369 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ko-1.82.2023091309: ms-ceintl.vscode-language-pack-ko
+2023-10-01 16:45:17.369 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pl-1.82.2023091309
+2023-10-01 16:45:17.387 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.82.2023091309: ms-ceintl.vscode-language-pack-zh-hans
+2023-10-01 16:45:17.398 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-de-1.82.2023091309
+2023-10-01 16:45:17.398 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-cs-1.82.2023091309
+2023-10-01 16:45:17.401 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.82.2023091309
+2023-10-01 16:45:17.403 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-fr-1.82.2023091309: ms-ceintl.vscode-language-pack-fr
+2023-10-01 16:45:17.405 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pt-br-1.82.2023091309: ms-ceintl.vscode-language-pack-pt-br
+2023-10-01 16:45:17.423 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-pl
+2023-10-01 16:45:17.425 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-it-1.82.2023091309
+2023-10-01 16:45:17.428 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-de
+2023-10-01 16:45:17.429 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-cs
+2023-10-01 16:45:17.440 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-azuretools.vscode-docker-1.26.1: ms-azuretools.vscode-docker
+2023-10-01 16:45:17.442 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ja
+2023-10-01 16:45:17.443 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.82.2023091309
+2023-10-01 16:45:17.444 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ko-1.82.2023091309
+2023-10-01 16:45:17.445 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.82.2023091309
+2023-10-01 16:45:17.450 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-it
+2023-10-01 16:45:17.461 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-fr-1.82.2023091309
+2023-10-01 16:45:17.463 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-zh-hant
+2023-10-01 16:45:17.464 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ko
+2023-10-01 16:45:17.464 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-zh-hans
+2023-10-01 16:45:17.470 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-fr
+2023-10-01 16:45:17.476 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-pl
+2023-10-01 16:45:17.479 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-pt-br-1.82.2023091309
+2023-10-01 16:45:17.479 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-azuretools.vscode-docker-1.26.1
+2023-10-01 16:45:17.481 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-es-1.82.2023091309: ms-ceintl.vscode-language-pack-es
+2023-10-01 16:45:17.504 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-pt-br
+2023-10-01 16:45:17.513 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2023-10-01 16:45:17.520 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-es-1.82.2023091309
+2023-10-01 16:45:17.529 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-es
+2023-10-01 16:45:17.558 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-de
+2023-10-01 16:45:17.582 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-pl
+2023-10-01 16:45:17.582 [info] Extension 'ms-ceintl.vscode-language-pack-pl' v1.82.2023091309 was successfully installed.
+2023-10-01 16:45:17.590 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-cs
+2023-10-01 16:45:17.637 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2023-10-01 16:45:17.680 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-it
+2023-10-01 16:45:17.710 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hant
+2023-10-01 16:45:17.752 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ko
+2023-10-01 16:45:17.785 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hans
+2023-10-01 16:45:17.826 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-fr
+2023-10-01 16:45:17.911 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/inferrinizzard.prettier-sql-vscode-1.6.0: inferrinizzard.prettier-sql-vscode
+2023-10-01 16:45:17.921 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-pt-br
+2023-10-01 16:45:17.968 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-de
+2023-10-01 16:45:17.969 [info] Extension 'ms-ceintl.vscode-language-pack-de' v1.82.2023091309 was successfully installed.
+2023-10-01 16:45:17.988 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2023-10-01 16:45:17.991 [info] Extension 'ms-azuretools.vscode-docker' v1.26.1 was successfully installed.
+2023-10-01 16:45:17.991 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/inferrinizzard.prettier-sql-vscode-1.6.0
+2023-10-01 16:45:18.007 [info] Extracting extension completed. inferrinizzard.prettier-sql-vscode
+2023-10-01 16:45:18.029 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-cs
+2023-10-01 16:45:18.030 [info] Extension 'ms-ceintl.vscode-language-pack-cs' v1.82.2023091309 was successfully installed.
+2023-10-01 16:45:18.145 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
+2023-10-01 16:45:18.146 [info] Extension 'ms-ceintl.vscode-language-pack-ja' v1.82.2023091309 was successfully installed.
+2023-10-01 16:45:18.169 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2023-10-01 16:45:18.192 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-it
+2023-10-01 16:45:18.193 [info] Extension 'ms-ceintl.vscode-language-pack-it' v1.82.2023091309 was successfully installed.
+2023-10-01 16:45:18.231 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hant
+2023-10-01 16:45:18.232 [info] Extension 'ms-ceintl.vscode-language-pack-zh-hant' v1.82.2023091309 was successfully installed.
+2023-10-01 16:45:18.267 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ko
+2023-10-01 16:45:18.267 [info] Extension 'ms-ceintl.vscode-language-pack-ko' v1.82.2023091309 was successfully installed.
+2023-10-01 16:45:18.288 [info] Extension installed successfully: inferrinizzard.prettier-sql-vscode
+2023-10-01 16:45:18.289 [info] Extension 'inferrinizzard.prettier-sql-vscode' v1.6.0 was successfully installed.
+2023-10-01 16:45:18.303 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hans
+2023-10-01 16:45:18.304 [info] Extension 'ms-ceintl.vscode-language-pack-zh-hans' v1.82.2023091309 was successfully installed.
+2023-10-01 16:45:18.332 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-fr
+2023-10-01 16:45:18.333 [info] Extension 'ms-ceintl.vscode-language-pack-fr' v1.82.2023091309 was successfully installed.
+2023-10-01 16:45:18.385 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-pt-br
+2023-10-01 16:45:18.386 [info] Extension 'ms-ceintl.vscode-language-pack-pt-br' v1.82.2023091309 was successfully installed.
+2023-10-01 16:45:18.412 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+2023-10-01 16:45:18.413 [info] Extension 'ms-ceintl.vscode-language-pack-es' v1.82.2023091309 was successfully installed.
+2023-10-01 16:45:18.846 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/mathematic.vscode-pdf-0.0.6: mathematic.vscode-pdf
+2023-10-01 16:45:18.872 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/mathematic.vscode-pdf-0.0.6
+2023-10-01 16:45:18.876 [info] Extracting extension completed. mathematic.vscode-pdf
+2023-10-01 16:45:18.896 [info] Extension installed successfully: mathematic.vscode-pdf
+2023-10-01 16:45:18.897 [info] Extension 'mathematic.vscode-pdf' v0.0.6 was successfully installed.
+2023-10-01 16:45:19.464 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-vsliveshare.vsliveshare-1.0.5883: ms-vsliveshare.vsliveshare
+2023-10-01 16:45:19.491 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-vsliveshare.vsliveshare-1.0.5883
+2023-10-01 16:45:19.495 [info] Extracting extension completed. ms-vsliveshare.vsliveshare
+2023-10-01 16:45:19.516 [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+2023-10-01 16:45:19.517 [info] Extension 'ms-vsliveshare.vsliveshare' v1.0.5883 was successfully installed.
+2023-10-01 16:45:22.568 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/redhat.java-1.23.0-linux-x64: redhat.java
+2023-10-01 16:45:22.638 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/redhat.java-1.23.0-linux-x64
+2023-10-01 16:45:22.642 [info] Extracting extension completed. redhat.java
+2023-10-01 16:45:22.662 [info] Extension installed successfully: redhat.java
+2023-10-01 16:45:22.664 [info] Extension 'redhat.java' v1.23.0 was successfully installed.
+2023-10-01 16:45:23.320 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-python.python-2023.16.0: ms-python.python
+2023-10-01 16:45:23.348 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-vscode.cpptools-1.17.5-linux-x64: ms-vscode.cpptools
+2023-10-01 16:45:23.357 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-python.python-2023.16.0
+2023-10-01 16:45:23.361 [info] Extracting extension completed. ms-python.python
+2023-10-01 16:45:23.388 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-vscode.cpptools-1.17.5-linux-x64
+2023-10-01 16:45:23.412 [info] Extracting extension completed. ms-vscode.cpptools
+2023-10-01 16:45:23.511 [info] Extension installed successfully: ms-vscode.cpptools
+2023-10-01 16:45:23.514 [info] Extension 'ms-vscode.cpptools' v1.17.5 was successfully installed.
+2023-10-01 16:45:23.534 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2023-10-01 16:45:26.946 [info] Extracted extension to file:///home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.9.30: ms-python.vscode-pylance
+2023-10-01 16:45:27.356 [info] Renamed to /home/ubuntu/.vscode-remote/extensions/ms-python.vscode-pylance-2023.9.30
+2023-10-01 16:45:27.359 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-10-01 16:45:27.377 [info] Extension installed successfully: ms-python.python
+2023-10-01 16:45:27.377 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-10-01 16:45:27.380 [info] Extension 'ms-python.python' v2023.16.0 was successfully installed.
+2023-10-01 16:47:40.967 [info] [127.0.0.1][093646c9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-01 16:47:40.969 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-01 16:47:40.971 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-01 16:47:40.971 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-01 16:47:40.972 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-01 16:47:40.972 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-01 16:47:40.972 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-01 16:47:41.012 [info] [127.0.0.1][3f237176][ExtensionHostConnection] <487> Extension Host Process exited with code: 0, signal: null.
+2023-10-01 16:47:41.012 [info] Cancelling previous shutdown timeout
+2023-10-01 16:47:41.012 [info] Last EH closed, waiting before shutting down
+2023-10-01 16:47:46.722 [info] [127.0.0.1][507eff1b][ExtensionHostConnection] New connection established.
+2023-10-01 16:47:46.723 [info] [127.0.0.1][ca52f573][ManagementConnection] New connection established.
+2023-10-01 16:47:46.729 [info] [127.0.0.1][507eff1b][ExtensionHostConnection] <1134> Launched Extension Host Process.
+2023-10-01 16:48:08.726 [info] [127.0.0.1][ca52f573][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-01 16:48:08.731 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-01 16:48:08.733 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-01 16:48:08.734 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-01 16:48:08.734 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-01 16:48:08.734 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-01 16:48:08.735 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-01 16:48:13.862 [info] [127.0.0.1][507eff1b][ExtensionHostConnection] <1134> Extension Host Process exited with code: 0, signal: null.
+2023-10-01 16:48:13.862 [info] Cancelling previous shutdown timeout
+2023-10-01 16:48:13.862 [info] Last EH closed, waiting before shutting down
+2023-10-01 16:48:14.212 [info] [127.0.0.1][6ec576a6][ManagementConnection] New connection established.
+2023-10-01 16:48:14.216 [info] [127.0.0.1][8cb6463c][ExtensionHostConnection] New connection established.
+2023-10-01 16:48:14.222 [info] [127.0.0.1][8cb6463c][ExtensionHostConnection] <1427> Launched Extension Host Process.
+2023-10-01 16:48:53.387 [info] [127.0.0.1][6ec576a6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-01 16:48:53.389 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-01 16:48:53.391 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-01 16:48:53.391 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-01 16:48:53.391 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-01 16:48:53.393 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-01 16:48:53.393 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-01 16:48:58.407 [info] [127.0.0.1][5e79eff9][ManagementConnection] New connection established.
+2023-10-01 16:48:58.413 [info] [127.0.0.1][2903f503][ExtensionHostConnection] New connection established.
+2023-10-01 16:48:58.419 [info] [127.0.0.1][2903f503][ExtensionHostConnection] <2063> Launched Extension Host Process.
+2023-10-01 16:48:58.473 [info] [127.0.0.1][8cb6463c][ExtensionHostConnection] <1427> Extension Host Process exited with code: 0, signal: null.
+2023-10-01 16:48:58.473 [info] Cancelling previous shutdown timeout
+2023-10-01 19:22:43.218 [info] [127.0.0.1][5e79eff9][ManagementConnection] The client has reconnected.
+2023-10-01 19:22:43.230 [info] [127.0.0.1][2903f503][ExtensionHostConnection] The client has reconnected.
+2023-10-01 19:29:00.865 [info] [127.0.0.1][5e79eff9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-01 19:29:00.867 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-01 19:29:00.869 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-01 19:29:00.869 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-01 19:29:00.870 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-01 19:29:00.870 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-01 19:29:00.870 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-01 19:29:00.870 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-01 19:29:00.870 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-01 19:29:00.870 [error] Error: Throttler is disposed
+    at c.queue (/vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /vscode/bin/linux-x64/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-01 19:29:05.983 [info] [127.0.0.1][2903f503][ExtensionHostConnection] <2063> Extension Host Process exited with code: 0, signal: null.
+2023-10-01 19:29:05.984 [info] Last EH closed, waiting before shutting down
+2023-10-01 19:29:09.355 [info] [127.0.0.1][4575263e][ManagementConnection] New connection established.
+2023-10-01 19:29:09.359 [info] [127.0.0.1][dc86f167][ExtensionHostConnection] New connection established.
+2023-10-01 19:29:09.366 [info] [127.0.0.1][dc86f167][ExtensionHostConnection] <66826> Launched Extension Host Process.
+2023-10-01 19:34:05.984 [info] New EH opened, aborting shutdown
